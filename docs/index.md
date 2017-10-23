@@ -1,6 +1,6 @@
 # Welcome to MAT160
 
-## Week 1 
+## Week 2
 
 To load the `Hello` data, copy and paste this command into your R session.
 ```r
