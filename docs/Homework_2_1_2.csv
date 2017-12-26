@@ -1,0 +1,209 @@
+Mode,State,Percentage
+Carpool,Alabama,9.90%
+Alone,Alabama,84.90%
+Public,Alabama,0.50%
+Other,Alabama,4.700%
+Carpool,Alaska,12.40%
+Alone,Alaska,68.20%
+Public,Alaska,1.90%
+Other,Alaska,17.500%
+Carpool,Arizona,11.60%
+Alone,Arizona,75.80%
+Public,Arizona,2.00%
+Other,Arizona,10.600%
+Carpool,Arkansas,10.30%
+Alone,Arkansas,82.70%
+Public,Arkansas,0.40%
+Other,Arkansas,6.600%
+Carpool,California,11.10%
+Alone,California,73.30%
+Public,California,5.20%
+Other,California,10.400%
+Carpool,Colorado,9.80%
+Alone,Colorado,75.50%
+Public,Colorado,3.10%
+Other,Colorado,11.600%
+Carpool,Connecticut,8.70%
+Alone,Connecticut,78.10%
+Public,Connecticut,4.70%
+Other,Connecticut,8.500%
+Carpool,Delaware,8.90%
+Alone,Delaware,81.10%
+Public,Delaware,3.30%
+Other,Delaware,6.700%
+Carpool,District of Columbia,6.50%
+Alone,District of Columbia,33.10%
+Public,District of Columbia,39.60%
+Other,District of Columbia,20.800%
+Carpool,Florida,9.90%
+Alone,Florida,79.70%
+Public,Florida,2.10%
+Other,Florida,8.300%
+Carpool,Georgia,10.50%
+Alone,Georgia,79.40%
+Public,Georgia,2.20%
+Other,Georgia,7.900%
+Carpool,Hawaii,14.20%
+Alone,Hawaii,67.10%
+Public,Hawaii,5.90%
+Other,Hawaii,12.800%
+Carpool,Idaho,9.80%
+Alone,Idaho,77.40%
+Public,Idaho,0.70%
+Other,Idaho,12.100%
+Carpool,Illinois,8.80%
+Alone,Illinois,73.30%
+Public,Illinois,9.00%
+Other,Illinois,8.900%
+Carpool,Indiana,8.80%
+Alone,Indiana,83.60%
+Public,Indiana,1.10%
+Other,Indiana,6.500%
+Carpool,Iowa,8.90%
+Alone,Iowa,80.50%
+Public,Iowa,1.10%
+Other,Iowa,9.500%
+Carpool,Kansas,10.00%
+Alone,Kansas,81.70%
+Public,Kansas,0.40%
+Other,Kansas,7.900%
+Carpool,Kentucky,9.50%
+Alone,Kentucky,83.10%
+Public,Kentucky,1.20%
+Other,Kentucky,6.200%
+Carpool,Louisiana,10.20%
+Alone,Louisiana,82.10%
+Public,Louisiana,1.30%
+Other,Louisiana,6.400%
+Carpool,Maine,9.90%
+Alone,Maine,78.80%
+Public,Maine,0.60%
+Other,Maine,10.700%
+Carpool,Maryland,10.10%
+Alone,Maryland,73.30%
+Public,Maryland,9.20%
+Other,Maryland,7.400%
+Carpool,Massachusetts,8.20%
+Alone,Massachusetts,72.20%
+Public,Massachusetts,8.90%
+Other,Massachusetts,10.700%
+Carpool,Michigan,9.00%
+Alone,Michigan,82.60%
+Public,Michigan,1.40%
+Other,Michigan,7.000%
+Carpool,Minnesota,9.30%
+Alone,Minnesota,77.70%
+Public,Minnesota,3.40%
+Other,Minnesota,9.600%
+Carpool,Mississippi,10.60%
+Alone,Mississippi,83.70%
+Public,Mississippi,0.40%
+Other,Mississippi,5.300%
+Carpool,Missouri,9.70%
+Alone,Missouri,81.40%
+Public,Missouri,1.40%
+Other,Missouri,7.500%
+Carpool,Montana,10.40%
+Alone,Montana,75.80%
+Public,Montana,0.90%
+Other,Montana,12.900%
+Carpool,Nebraska,9.30%
+Alone,Nebraska,81.30%
+Public,Nebraska,0.70%
+Other,Nebraska,8.700%
+Carpool,Nevada,11.10%
+Alone,Nevada,78.60%
+Public,Nevada,3.50%
+Other,Nevada,6.800%
+Carpool,New Hampshire,8.60%
+Alone,New Hampshire,80.60%
+Public,New Hampshire,0.70%
+Other,New Hampshire,10.100%
+Carpool,New Jersey,8.50%
+Alone,New Jersey,71.80%
+Public,New Jersey,11.00%
+Other,New Jersey,8.700%
+Carpool,New Mexico,10.00%
+Alone,New Mexico,79.30%
+Public,New Mexico,1.10%
+Other,New Mexico,9.600%
+Carpool,New York,6.70%
+Alone,New York,53.90%
+Public,New York,27.00%
+Other,New York,12.400%
+Carpool,North Carolina,9.90%
+Alone,North Carolina,81.00%
+Public,North Carolina,1.20%
+Other,North Carolina,7.900%
+Carpool,North Dakota,9.50%
+Alone,North Dakota,79.10%
+Public,North Dakota,0.40%
+Other,North Dakota,11.000%
+Carpool,Ohio,8.20%
+Alone,Ohio,83.30%
+Public,Ohio,1.70%
+Other,Ohio,6.800%
+Carpool,Oklahoma,10.90%
+Alone,Oklahoma,81.90%
+Public,Oklahoma,0.50%
+Other,Oklahoma,6.700%
+Carpool,Oregon,10.20%
+Alone,Oregon,71.80%
+Public,Oregon,4.30%
+Other,Oregon,13.700%
+Carpool,Pennsylvania,9.10%
+Alone,Pennsylvania,76.60%
+Public,Pennsylvania,5.30%
+Other,Pennsylvania,9.000%
+Carpool,Puerto Rico,8.80%
+Alone,Puerto Rico,80.10%
+Public,Puerto Rico,2.90%
+Other,Puerto Rico,8.200%
+Carpool,Rhode Island,8.60%
+Alone,Rhode Island,80.30%
+Public,Rhode Island,3.10%
+Other,Rhode Island,8.000%
+Carpool,South Carolina,9.30%
+Alone,South Carolina,82.30%
+Public,South Carolina,0.70%
+Other,South Carolina,7.700%
+Carpool,South Dakota,10.00%
+Alone,South Dakota,78.00%
+Public,South Dakota,0.70%
+Other,South Dakota,11.300%
+Carpool,Tennessee,9.40%
+Alone,Tennessee,84.00%
+Public,Tennessee,0.90%
+Other,Tennessee,5.700%
+Carpool,Texas,11.10%
+Alone,Texas,79.80%
+Public,Texas,1.60%
+Other,Texas,7.500%
+Carpool,Utah,12.00%
+Alone,Utah,76.50%
+Public,Utah,2.40%
+Other,Utah,9.100%
+Carpool,Vermont,9.90%
+Alone,Vermont,74.30%
+Public,Vermont,1.40%
+Other,Vermont,14.400%
+Carpool,Virginia,9.20%
+Alone,Virginia,78.10%
+Public,Virginia,4.50%
+Other,Virginia,8.200%
+Carpool,Washington,10.20%
+Alone,Washington,73.30%
+Public,Washington,5.60%
+Other,Washington,10.900%
+Carpool,West Virginia,10.50%
+Alone,West Virginia,82.10%
+Public,West Virginia,0.90%
+Other,West Virginia,6.500%
+Carpool,Wisconsin,8.90%
+Alone,Wisconsin,79.80%
+Public,Wisconsin,2.00%
+Other,Wisconsin,9.300%
+Carpool,Wyoming,10.90%
+Alone,Wyoming,77.70%
+Public,Wyoming,1.50%
+Other,Wyoming,9.900%

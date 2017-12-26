@@ -1,0 +1,478 @@
+GHO,Indicator,PUBLISH STATES,Year,WHO region,Country,Sex,Life
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Albania,Male,67
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Albania,Female,71
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Albania,Both sexes,69
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Albania,Male,68
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Albania,Female,73
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Albania,Both sexes,71
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Albania,Male,73
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Albania,Female,75
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Albania,Both sexes,74
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Andorra,Male,74
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Andorra,Female,81
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Andorra,Both sexes,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Andorra,Male,76
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Andorra,Female,83
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Andorra,Both sexes,80
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Andorra,Male,79
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Andorra,Female,85
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Andorra,Both sexes,82
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Armenia,Male,63
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Armenia,Female,71
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Armenia,Both sexes,67
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Armenia,Male,68
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Armenia,Female,74
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Armenia,Both sexes,71
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Armenia,Male,67
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Armenia,Female,75
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Armenia,Both sexes,71
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Austria,Male,73
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Austria,Female,79
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Austria,Both sexes,76
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Austria,Male,75
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Austria,Female,82
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Austria,Both sexes,79
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Austria,Male,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Austria,Female,84
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Austria,Both sexes,81
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Azerbaijan,Male,60
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Azerbaijan,Female,66
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Azerbaijan,Both sexes,63
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Azerbaijan,Male,64
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Azerbaijan,Female,69
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Azerbaijan,Both sexes,67
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Azerbaijan,Male,69
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Azerbaijan,Female,74
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Azerbaijan,Both sexes,71
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Belarus,Male,66
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Belarus,Female,76
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Belarus,Both sexes,71
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Belarus,Male,63
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Belarus,Female,75
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Belarus,Both sexes,69
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Belarus,Male,66
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Belarus,Female,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Belarus,Both sexes,71
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Belgium,Male,73
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Belgium,Female,80
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Belgium,Both sexes,76
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Belgium,Male,75
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Belgium,Female,81
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Belgium,Both sexes,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Belgium,Male,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Belgium,Female,83
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Belgium,Both sexes,80
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Bosnia and Herzegovina,Male,70
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Bosnia and Herzegovina,Female,76
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Bosnia and Herzegovina,Both sexes,73
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Bosnia and Herzegovina,Male,72
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Bosnia and Herzegovina,Female,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Bosnia and Herzegovina,Both sexes,75
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Bosnia and Herzegovina,Male,74
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Bosnia and Herzegovina,Female,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Bosnia and Herzegovina,Both sexes,76
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Bulgaria,Male,68
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Bulgaria,Female,75
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Bulgaria,Both sexes,71
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Bulgaria,Male,68
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Bulgaria,Female,75
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Bulgaria,Both sexes,72
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Bulgaria,Male,71
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Bulgaria,Female,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Bulgaria,Both sexes,74
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Croatia,Male,69
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Croatia,Female,76
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Croatia,Both sexes,73
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Croatia,Male,70
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Croatia,Female,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Croatia,Both sexes,74
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Croatia,Male,74
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Croatia,Female,80
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Croatia,Both sexes,77
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Cyprus,Male,74
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Cyprus,Female,79
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Cyprus,Both sexes,76
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Cyprus,Male,75
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Cyprus,Female,79
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Cyprus,Both sexes,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Cyprus,Male,79
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Cyprus,Female,84
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Cyprus,Both sexes,81
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Czech Republic,Male,68
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Czech Republic,Female,76
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Czech Republic,Both sexes,72
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Czech Republic,Male,72
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Czech Republic,Female,79
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Czech Republic,Both sexes,75
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Czech Republic,Male,75
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Czech Republic,Female,81
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Czech Republic,Both sexes,78
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Denmark,Male,72
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Denmark,Female,78
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Denmark,Both sexes,75
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Denmark,Male,75
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Denmark,Female,79
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Denmark,Both sexes,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Denmark,Male,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Denmark,Female,82
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Denmark,Both sexes,79
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Estonia,Male,65
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Estonia,Female,75
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Estonia,Both sexes,70
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Estonia,Male,65
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Estonia,Female,76
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Estonia,Both sexes,71
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Estonia,Male,71
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Estonia,Female,81
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Estonia,Both sexes,76
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Finland,Male,71
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Finland,Female,79
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Finland,Both sexes,75
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Finland,Male,74
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Finland,Female,81
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Finland,Both sexes,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Finland,Male,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Finland,Female,84
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Finland,Both sexes,81
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,France,Male,73
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,France,Female,82
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,France,Both sexes,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,France,Male,76
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,France,Female,83
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,France,Both sexes,79
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,France,Male,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,France,Female,85
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,France,Both sexes,82
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Georgia,Male,66
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Georgia,Female,73
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Georgia,Both sexes,69
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Georgia,Male,66
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Georgia,Female,73
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Georgia,Both sexes,69
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Georgia,Male,68
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Georgia,Female,76
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Georgia,Both sexes,72
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Germany,Male,72
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Germany,Female,79
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Germany,Both sexes,76
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Germany,Male,75
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Germany,Female,81
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Germany,Both sexes,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Germany,Male,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Germany,Female,83
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Germany,Both sexes,81
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Greece,Male,75
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Greece,Female,80
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Greece,Both sexes,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Greece,Male,76
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Greece,Female,81
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Greece,Both sexes,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Greece,Male,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Greece,Female,84
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Greece,Both sexes,81
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Hungary,Male,65
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Hungary,Female,74
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Hungary,Both sexes,69
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Hungary,Male,68
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Hungary,Female,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Hungary,Both sexes,72
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Hungary,Male,71
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Hungary,Female,79
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Hungary,Both sexes,75
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Iceland,Male,75
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Iceland,Female,81
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Iceland,Both sexes,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Iceland,Male,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Iceland,Female,82
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Iceland,Both sexes,80
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Iceland,Male,81
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Iceland,Female,84
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Iceland,Both sexes,82
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Ireland,Male,72
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Ireland,Female,78
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Ireland,Both sexes,75
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Ireland,Male,74
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Ireland,Female,79
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Ireland,Both sexes,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Ireland,Male,79
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Ireland,Female,83
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Ireland,Both sexes,81
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Israel,Male,75
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Israel,Female,79
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Israel,Both sexes,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Israel,Male,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Israel,Female,81
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Israel,Both sexes,79
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Israel,Male,80
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Israel,Female,84
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Israel,Both sexes,82
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Italy,Male,74
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Italy,Female,80
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Italy,Both sexes,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Italy,Male,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Italy,Female,82
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Italy,Both sexes,79
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Italy,Male,80
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Italy,Female,85
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Italy,Both sexes,82
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Kazakhstan,Male,61
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Kazakhstan,Female,70
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Kazakhstan,Both sexes,66
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Kazakhstan,Male,58
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Kazakhstan,Female,69
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Kazakhstan,Both sexes,63
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Kazakhstan,Male,62
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Kazakhstan,Female,72
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Kazakhstan,Both sexes,67
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Kyrgyzstan,Male,62
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Kyrgyzstan,Female,69
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Kyrgyzstan,Both sexes,65
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Kyrgyzstan,Male,63
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Kyrgyzstan,Female,70
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Kyrgyzstan,Both sexes,66
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Kyrgyzstan,Male,65
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Kyrgyzstan,Female,72
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Kyrgyzstan,Both sexes,69
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Latvia,Male,64
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Latvia,Female,75
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Latvia,Both sexes,70
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Latvia,Male,65
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Latvia,Female,76
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Latvia,Both sexes,70
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Latvia,Male,69
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Latvia,Female,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Latvia,Both sexes,74
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Lithuania,Male,66
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Lithuania,Female,76
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Lithuania,Both sexes,71
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Lithuania,Male,67
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Lithuania,Female,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Lithuania,Both sexes,72
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Lithuania,Male,68
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Lithuania,Female,79
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Lithuania,Both sexes,74
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Luxembourg,Male,72
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Luxembourg,Female,79
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Luxembourg,Both sexes,76
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Luxembourg,Male,75
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Luxembourg,Female,81
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Luxembourg,Both sexes,79
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Luxembourg,Male,79
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Luxembourg,Female,84
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Luxembourg,Both sexes,82
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Malta,Male,74
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Malta,Female,78
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Malta,Both sexes,76
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Malta,Male,76
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Malta,Female,80
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Malta,Both sexes,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Malta,Male,79
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Malta,Female,82
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Malta,Both sexes,80
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Monaco,Male,74
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Monaco,Female,81
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Monaco,Both sexes,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Monaco,Male,76
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Monaco,Female,84
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Monaco,Both sexes,80
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Monaco,Male,79
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Monaco,Female,85
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Monaco,Both sexes,82
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Montenegro,Male,73
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Montenegro,Female,79
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Montenegro,Both sexes,76
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Montenegro,Male,72
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Montenegro,Female,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Montenegro,Both sexes,75
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Montenegro,Male,73
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Montenegro,Female,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Montenegro,Both sexes,76
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Netherlands,Male,74
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Netherlands,Female,80
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Netherlands,Both sexes,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Netherlands,Male,76
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Netherlands,Female,81
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Netherlands,Both sexes,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Netherlands,Male,79
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Netherlands,Female,83
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Netherlands,Both sexes,81
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Norway,Male,74
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Norway,Female,80
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Norway,Both sexes,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Norway,Male,76
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Norway,Female,81
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Norway,Both sexes,79
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Norway,Male,79
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Norway,Female,83
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Norway,Both sexes,81
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Poland,Male,67
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Poland,Female,76
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Poland,Both sexes,71
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Poland,Male,70
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Poland,Female,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Poland,Both sexes,74
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Poland,Male,72
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Poland,Female,81
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Poland,Both sexes,76
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Portugal,Male,71
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Portugal,Female,78
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Portugal,Both sexes,74
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Portugal,Male,73
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Portugal,Female,80
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Portugal,Both sexes,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Portugal,Male,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Portugal,Female,83
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Portugal,Both sexes,80
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Republic of Moldova,Male,64
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Republic of Moldova,Female,71
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Republic of Moldova,Both sexes,68
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Republic of Moldova,Male,64
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Republic of Moldova,Female,72
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Republic of Moldova,Both sexes,68
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Republic of Moldova,Male,67
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Republic of Moldova,Female,75
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Republic of Moldova,Both sexes,71
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Romania,Male,66
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Romania,Female,73
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Romania,Both sexes,70
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Romania,Male,68
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Romania,Female,75
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Romania,Both sexes,71
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Romania,Male,70
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Romania,Female,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Romania,Both sexes,74
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Russian Federation,Male,63
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Russian Federation,Female,74
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Russian Federation,Both sexes,69
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Russian Federation,Male,59
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Russian Federation,Female,72
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Russian Federation,Both sexes,65
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Russian Federation,Male,63
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Russian Federation,Female,75
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Russian Federation,Both sexes,69
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,San Marino,Male,76
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,San Marino,Female,83
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,San Marino,Both sexes,79
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,San Marino,Male,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,San Marino,Female,84
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,San Marino,Both sexes,82
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,San Marino,Male,82
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,San Marino,Female,83
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,San Marino,Both sexes,83
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Serbia,Male,69
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Serbia,Female,75
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Serbia,Both sexes,72
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Serbia,Male,69
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Serbia,Female,75
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Serbia,Both sexes,72
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Serbia,Male,72
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Serbia,Female,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Serbia,Both sexes,74
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Slovakia,Male,67
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Slovakia,Female,75
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Slovakia,Both sexes,71
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Slovakia,Male,69
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Slovakia,Female,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Slovakia,Both sexes,73
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Slovakia,Male,72
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Slovakia,Female,80
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Slovakia,Both sexes,76
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Slovenia,Male,70
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Slovenia,Female,78
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Slovenia,Both sexes,74
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Slovenia,Male,72
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Slovenia,Female,80
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Slovenia,Both sexes,76
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Slovenia,Male,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Slovenia,Female,83
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Slovenia,Both sexes,80
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Spain,Male,73
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Spain,Female,80
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Spain,Both sexes,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Spain,Male,76
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Spain,Female,83
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Spain,Both sexes,79
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Spain,Male,79
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Spain,Female,85
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Spain,Both sexes,82
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Sweden,Male,75
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Sweden,Female,80
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Sweden,Both sexes,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Sweden,Male,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Sweden,Female,82
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Sweden,Both sexes,80
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Sweden,Male,80
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Sweden,Female,84
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Sweden,Both sexes,82
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Switzerland,Male,74
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Switzerland,Female,81
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Switzerland,Both sexes,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Switzerland,Male,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Switzerland,Female,83
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Switzerland,Both sexes,80
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Switzerland,Male,80
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Switzerland,Female,85
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Switzerland,Both sexes,83
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Tajikistan,Male,62
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Tajikistan,Female,64
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Tajikistan,Both sexes,63
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Tajikistan,Male,63
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Tajikistan,Female,65
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Tajikistan,Both sexes,64
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Tajikistan,Male,67
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Tajikistan,Female,69
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Tajikistan,Both sexes,68
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,The former Yugoslav Republic of Macedonia,Male,70
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,The former Yugoslav Republic of Macedonia,Female,75
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,The former Yugoslav Republic of Macedonia,Both sexes,72
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,The former Yugoslav Republic of Macedonia,Male,71
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,The former Yugoslav Republic of Macedonia,Female,75
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,The former Yugoslav Republic of Macedonia,Both sexes,73
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,The former Yugoslav Republic of Macedonia,Male,73
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,The former Yugoslav Republic of Macedonia,Female,77
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,The former Yugoslav Republic of Macedonia,Both sexes,75
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Turkey,Male,64
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Turkey,Female,68
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Turkey,Both sexes,66
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Turkey,Male,68
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Turkey,Female,73
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Turkey,Both sexes,71
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Turkey,Male,73
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Turkey,Female,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Turkey,Both sexes,76
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Turkmenistan,Male,59
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Turkmenistan,Female,65
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Turkmenistan,Both sexes,62
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Turkmenistan,Male,59
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Turkmenistan,Female,65
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Turkmenistan,Both sexes,62
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Turkmenistan,Male,60
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Turkmenistan,Female,67
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Turkmenistan,Both sexes,63
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Ukraine,Male,66
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Ukraine,Female,75
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Ukraine,Both sexes,70
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Ukraine,Male,62
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Ukraine,Female,74
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Ukraine,Both sexes,68
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Ukraine,Male,65
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Ukraine,Female,76
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Ukraine,Both sexes,71
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,United Kingdom,Male,73
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,United Kingdom,Female,79
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,United Kingdom,Both sexes,76
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,United Kingdom,Male,76
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,United Kingdom,Female,80
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,United Kingdom,Both sexes,78
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,United Kingdom,Male,79
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,United Kingdom,Female,82
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,United Kingdom,Both sexes,80
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Uzbekistan,Male,63
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Uzbekistan,Female,70
+WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Uzbekistan,Both sexes,66
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Uzbekistan,Male,63
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Uzbekistan,Female,69
+WHOSIS_000001,Life expectancy at birth (years),Published,2000,Europe,Uzbekistan,Both sexes,66
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Uzbekistan,Male,66
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Uzbekistan,Female,71
+WHOSIS_000001,Life expectancy at birth (years),Published,2011,Europe,Uzbekistan,Both sexes,68

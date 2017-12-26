@@ -1,0 +1,217 @@
+"CO2 Emissions per Capita (metric tons)"
+
+Location,Location Type,TimeFrame,Data Type,Data,Footnotes
+Afghanistan,Country,2006,Number,-,1
+Albania,Country,2006,Number,1.3,
+Algeria,Country,2006,Number,2.6,
+Andorra,Country,2006,Number,-,1
+Angola,Country,2006,Number,0.5,
+Antigua and Barbuda,Country,2006,Number,-,1
+Argentina,Country,2006,Number,3.8,
+Armenia,Country,2006,Number,1.4,
+Australia,Country,2006,Number,19.0,
+Austria,Country,2006,Number,8.8,
+Azerbaijan,Country,2006,Number,3.6,
+Bahamas,Country,2006,Number,-,1
+Bahrain,Country,2006,Number,27.0,
+Bangladesh,Country,2006,Number,0.2,
+Barbados,Country,2006,Number,-,1
+Belarus,Country,2006,Number,6.6,
+Belgium,Country,2006,Number,11.1,
+Belize,Country,2006,Number,-,1
+Benin,Country,2006,Number,0.3,
+Bhutan,Country,2006,Number,-,1
+Bolivia,Country,2006,Number,1.4,
+Bosnia-Herzegovina,Country,2006,Number,4.4,
+Botswana,Country,2006,Number,2.4,
+Brazil,Country,2006,Number,1.8,
+Brunei,Country,2006,Number,15.1,
+Bulgaria,Country,2006,Number,6.2,
+Burkina Faso,Country,2006,Number,-,1
+Burundi,Country,2006,Number,-,1
+Cambodia,Country,2006,Number,0.3,
+Cameroon,Country,2006,Number,0.2,
+Canada,Country,2006,Number,16.5,
+Cape Verde,Country,2006,Number,-,1
+Central African Republic,Country,2006,Number,-,1
+Chad,Country,2006,Number,-,1
+Channel Islands,Country,2006,Number,-,1
+Chile,Country,2006,Number,3.6,
+China,Country,2006,Number,4.3,
+Colombia,Country,2006,Number,1.3,
+Comoros,Country,2006,Number,-,1
+Congo,Country,2006,Number,0.3,
+"Congo, Dem. Rep. of",Country,2006,Number,-,1
+Costa Rica,Country,2006,Number,1.4,
+Cote d'Ivoire,Country,2006,Number,0.3,
+Croatia,Country,2006,Number,4.7,
+Cuba,Country,2006,Number,2.4,
+Cyprus,Country,2006,Number,9.1,
+Czech Republic,Country,2006,Number,11.8,
+Denmark,Country,2006,Number,10.2,
+Djibouti,Country,2006,Number,-,1
+Dominica,Country,2006,Number,-,1
+Dominican Republic,Country,2006,Number,1.9,
+Ecuador,Country,2006,Number,1.9,
+Egypt,Country,2006,Number,2.1,
+El Salvador,Country,2006,Number,0.9,
+Equatorial Guinea,Country,2006,Number,-,1
+Eritrea,Country,2006,Number,0.1,
+Estonia,Country,2006,Number,11.3,
+Ethiopia,Country,2006,Number,0.1,
+Federated States of Micronesia,Country,2006,Number,-,1
+Fiji,Country,2006,Number,-,1
+Finland,Country,2006,Number,12.7,
+France,Country,2006,Number,6.0,
+French Guiana,Country,2006,Number,-,1
+French Polynesia,Country,2006,Number,-,1
+Gabon,Country,2006,Number,1.6,
+Gambia,Country,2006,Number,-,1
+Georgia,Country,2006,Number,1.0,
+Germany,Country,2006,Number,10.0,
+Ghana,Country,2006,Number,0.4,
+Greece,Country,2006,Number,8.4,
+Grenada,Country,2006,Number,-,1
+Guadeloupe,Country,2006,Number,-,1
+Guam,Country,2006,Number,-,1
+Guatemala,Country,2006,Number,0.8,
+Guinea,Country,2006,Number,-,1
+Guinea-Bissau,Country,2006,Number,-,1
+Guyana,Country,2006,Number,-,1
+Haiti,Country,2006,Number,0.2,
+Honduras,Country,2006,Number,1.0,
+"Hong Kong, SAR",Country,2006,Number,6.1,
+Hungary,Country,2006,Number,5.6,
+Iceland,Country,2006,Number,7.2,
+India,Country,2006,Number,1.1,
+Indonesia,Country,2006,Number,1.5,
+Iran,Country,2006,Number,6.2,
+Iraq,Country,2006,Number,3.2,
+Ireland,Country,2006,Number,10.6,
+Israel,Country,2006,Number,8.9,
+Italy,Country,2006,Number,7.6,
+Jamaica,Country,2006,Number,4.3,
+Japan,Country,2006,Number,9.5,
+Jordan,Country,2006,Number,3.3,
+Kazakhstan,Country,2006,Number,11.9,
+Kenya,Country,2006,Number,0.3,
+Kiribati,Country,2006,Number,-,1
+"Korea, North",Country,2006,Number,3.2,
+"Korea, South",Country,2006,Number,9.9,
+Kosovo,Country,2006,Number,-,1
+Kuwait,Country,2006,Number,25.7,
+Kyrgyzstan,Country,2006,Number,1.0,
+Laos,Country,2006,Number,-,1
+Latvia,Country,2006,Number,3.5,
+Lebanon,Country,2006,Number,3.3,
+Lesotho,Country,2006,Number,-,1
+Liberia,Country,2006,Number,-,1
+Libya,Country,2006,Number,7.0,
+Liechtenstein,Country,2006,Number,-,1
+Lithuania,Country,2006,Number,4.0,
+Luxembourg,Country,2006,Number,23.6,
+"Macao, SAR",Country,2006,Number,-,1
+Macedonia,Country,2006,Number,3.9,
+Madagascar,Country,2006,Number,-,1
+Malawi,Country,2006,Number,-,1
+Malaysia,Country,2006,Number,5.9,
+Maldives,Country,2006,Number,-,1
+Mali,Country,2006,Number,-,1
+Malta,Country,2006,Number,6.2,
+Marshall Islands,Country,2006,Number,-,1
+Martinique,Country,2006,Number,-,1
+Mauritania,Country,2006,Number,-,1
+Mauritius,Country,2006,Number,-,1
+Mayotte,Country,2006,Number,-,1
+Mexico,Country,2006,Number,4.0,
+Moldova,Country,2006,Number,1.9,
+Monaco,Country,2006,Number,-,1
+Mongolia,Country,2006,Number,3.9,
+Montenegro,Country,2006,Number,-,1
+Morocco,Country,2006,Number,1.3,
+Mozambique,Country,2006,Number,0.1,
+Myanmar,Country,2006,Number,0.2,
+Namibia,Country,2006,Number,1.5,
+Nauru,Country,2006,Number,-,1
+Nepal,Country,2006,Number,0.1,
+Netherlands,Country,2006,Number,10.9,
+New Caledonia,Country,2006,Number,-,1
+New Zealand,Country,2006,Number,8.9,
+Nicaragua,Country,2006,Number,0.7,
+Niger,Country,2006,Number,-,1
+Nigeria,Country,2006,Number,0.4,
+Norway,Country,2006,Number,7.9,
+Oman,Country,2006,Number,11.6,
+Pakistan,Country,2006,Number,0.8,
+Palau,Country,2006,Number,-,1
+Palestinian Territory,Country,2006,Number,-,1
+Panama,Country,2006,Number,1.8,
+Papua New Guinea,Country,2006,Number,-,1
+Paraguay,Country,2006,Number,0.6,
+Peru,Country,2006,Number,1.0,
+Philippines,Country,2006,Number,0.8,
+Poland,Country,2006,Number,8.0,
+Portugal,Country,2006,Number,5.3,
+Puerto Rico,Country,2006,Number,-,1
+Qatar,Country,2006,Number,48.3,
+Reunion,Country,2006,Number,-,1
+Romania,Country,2006,Number,5.4,
+Russia,Country,2006,Number,11.1,
+Rwanda,Country,2006,Number,-,1
+Samoa,Country,2006,Number,-,1
+San Marino,Country,2006,Number,-,1
+Sao Tome and Principe,Country,2006,Number,-,1
+Saudi Arabia,Country,2006,Number,14.4,
+Senegal,Country,2006,Number,0.4,
+Serbia,Country,2006,Number,7.2,
+Seychelles,Country,2006,Number,-,1
+Sierra Leone,Country,2006,Number,-,1
+Singapore,Country,2006,Number,9.6,
+Slovakia,Country,2006,Number,7.0,
+Slovenia,Country,2006,Number,7.7,
+Solomon Islands,Country,2006,Number,-,1
+Somalia,Country,2006,Number,-,1
+South Africa,Country,2006,Number,7.2,
+Spain,Country,2006,Number,7.4,
+Sri Lanka,Country,2006,Number,0.6,
+St. Kitts-Nevis,Country,2006,Number,-,1
+St. Lucia,Country,2006,Number,-,1
+St. Vincent & the Grenadines,Country,2006,Number,-,1
+Sudan,Country,2006,Number,0.3,
+Suriname,Country,2006,Number,-,1
+Swaziland,Country,2006,Number,-,1
+Sweden,Country,2006,Number,5.3,
+Switzerland,Country,2006,Number,5.8,
+Syria,Country,2006,Number,2.7,
+Taiwan,Country,2006,Number,11.9,
+Tajikistan,Country,2006,Number,0.9,
+Tanzania,Country,2006,Number,0.1,
+Thailand,Country,2006,Number,3.4,
+Timor-Leste,Country,2006,Number,-,1
+Togo,Country,2006,Number,0.1,
+Tonga,Country,2006,Number,-,1
+Trinidad and Tobago,Country,2006,Number,20.3,
+Tunisia,Country,2006,Number,1.9,
+Turkey,Country,2006,Number,3.3,
+Turkmenistan,Country,2006,Number,8.9,
+Tuvalu,Country,2006,Number,-,1
+Uganda,Country,2006,Number,-,1
+Ukraine,Country,2006,Number,6.6,
+United Arab Emirates,Country,2006,Number,26.0,
+United Kingdom,Country,2006,Number,8.9,
+United States,Country,2006,Number,19.0,
+Uruguay,Country,2006,Number,1.9,
+Uzbekistan,Country,2006,Number,4.3,
+Vanuatu,Country,2006,Number,-,1
+Venezuela,Country,2006,Number,5.5,
+Vietnam,Country,2006,Number,1.0,
+Western Sahara,Country,2006,Number,-,1
+Yemen,Country,2006,Number,0.9,
+Zambia,Country,2006,Number,0.2,
+Zimbabwe,Country,2006,Number,0.8,
+
+"Source"
+"PRB 2009 World Population Data Sheet"
+
+"Footnotes"
+1,"(-) Data unavailable, inapplicable, or not collected."
