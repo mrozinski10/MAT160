@@ -1,105 +1,105 @@
 Sex,Location,TimeFrame,Salary
-Male,Alabama,2011,42951.00
-Male,Alaska,2011,52379.00
-Male,Arizona,2011,42544.00
-Male,Arkansas,2011,37488.00
-Male,California,2011,49281.00
-Male,Colorado,2011,50987.00
-Male,Connecticut,2011,60705.00
-Male,Delaware,2011,50411.00
-Male,District of Columbia,2011,66760.00
-Male,Florida,2011,40951.00
-Male,Georgia,2011,43902.00
-Male,Hawaii,2011,45494.00
-Male,Idaho,2011,41528.00
-Male,Illinois,2011,50746.00
-Male,Indiana,2011,45183.00
-Male,Iowa,2011,43624.00
-Male,Kansas,2011,43993.00
-Male,Kentucky,2011,41612.00
-Male,Louisiana,2011,46313.00
-Male,Maine,2011,43944.00
-Male,Maryland,2011,56708.00
-Male,Massachusetts,2011,60264.00
-Male,Michigan,2011,50053.00
-Male,Minnesota,2011,50580.00
-Male,Mississippi,2011,40202.00
-Male,Missouri,2011,43146.00
-Male,Montana,2011,41635.00
-Male,Nebraska,2011,42182.00
-Male,Nevada,2011,41803.00
-Male,New Hampshire,2011,53033.00
-Male,New Jersey,2011,60568.00
-Male,New Mexico,2011,41037.00
-Male,New York,2011,50388.00
-Male,North Carolina,2011,41950.00
-Male,North Dakota,2011,44660.00
-Male,Ohio,2011,46176.00
-Male,Oklahoma,2011,41420.00
-Male,Oregon,2011,45976.00
-Male,Pennsylvania,2011,47956.00
-Male,Puerto Rico,2011,22529.00
-Male,Rhode Island,2011,48842.00
-Male,South Carolina,2011,41464.00
-Male,South Dakota,2011,40285.00
-Male,Tennessee,2011,41309.00
-Male,Texas,2011,43160.00
-Male,Utah,2011,47573.00
-Male,Vermont,2011,44057.00
-Male,Virginia,2011,52805.00
-Male,Washington,2011,53046.00
-Male,West Virginia,2011,42125.00
-Male,Wisconsin,2011,46214.00
-Male,Wyoming,2011,51630.00
-Female,Alabama,2011,31862.00
-Female,Alaska,2011,40550.00
-Female,Arizona,2011,36048.00
-Female,Arkansas,2011,30752.00
-Female,California,2011,41817.00
-Female,Colorado,2011,40236.00
-Female,Connecticut,2011,47476.00
-Female,Delaware,2011,40500.00
-Female,District of Columbia,2011,60332.00
-Female,Florida,2011,33823.00
-Female,Georgia,2011,35438.00
-Female,Hawaii,2011,37242.00
-Female,Idaho,2011,31238.00
-Female,Illinois,2011,39150.00
-Female,Indiana,2011,34023.00
-Female,Iowa,2011,33745.00
-Female,Kansas,2011,33269.00
-Female,Kentucky,2011,32684.00
-Female,Louisiana,2011,31844.00
-Female,Maine,2011,34599.00
-Female,Maryland,2011,48748.00
-Female,Massachusetts,2011,46185.00
-Female,Michigan,2011,36931.00
-Female,Minnesota,2011,40416.00
-Female,Mississippi,2011,29548.00
-Female,Missouri,2011,33865.00
-Female,Montana,2011,31067.00
-Female,Nebraska,2011,33424.00
-Female,Nevada,2011,35484.00
-Female,New Hampshire,2011,41021.00
-Female,New Jersey,2011,47155.00
-Female,New Mexico,2011,32316.00
-Female,New York,2011,42113.00
-Female,North Carolina,2011,33459.00
-Female,North Dakota,2011,32462.00
-Female,Ohio,2011,35746.00
-Female,Oklahoma,2011,31274.00
-Female,Oregon,2011,36027.00
-Female,Pennsylvania,2011,37089.00
-Female,Puerto Rico,2011,22117.00
-Female,Rhode Island,2011,41412.00
-Female,South Carolina,2011,31330.00
-Female,South Dakota,2011,31329.00
-Female,Tennessee,2011,33184.00
-Female,Texas,2011,35301.00
-Female,Utah,2011,32843.00
-Female,Vermont,2011,38177.00
-Female,Virginia,2011,40969.00
-Female,Washington,2011,40993.00
-Female,West Virginia,2011,29688.00
-Female,Wisconsin,2011,35890.00
-Female,Wyoming,2011,34381.00
+Male,Alabama,2011,42951
+Male,Alaska,2011,52379
+Male,Arizona,2011,42544
+Male,Arkansas,2011,37488
+Male,California,2011,49281
+Male,Colorado,2011,50987
+Male,Connecticut,2011,60705
+Male,Delaware,2011,50411
+Male,District of Columbia,2011,66760
+Male,Florida,2011,40951
+Male,Georgia,2011,43902
+Male,Hawaii,2011,45494
+Male,Idaho,2011,41528
+Male,Illinois,2011,50746
+Male,Indiana,2011,45183
+Male,Iowa,2011,43624
+Male,Kansas,2011,43993
+Male,Kentucky,2011,41612
+Male,Louisiana,2011,46313
+Male,Maine,2011,43944
+Male,Maryland,2011,56708
+Male,Massachusetts,2011,60264
+Male,Michigan,2011,50053
+Male,Minnesota,2011,50580
+Male,Mississippi,2011,40202
+Male,Missouri,2011,43146
+Male,Montana,2011,41635
+Male,Nebraska,2011,42182
+Male,Nevada,2011,41803
+Male,New Hampshire,2011,53033
+Male,New Jersey,2011,60568
+Male,New Mexico,2011,41037
+Male,New York,2011,50388
+Male,North Carolina,2011,41950
+Male,North Dakota,2011,44660
+Male,Ohio,2011,46176
+Male,Oklahoma,2011,41420
+Male,Oregon,2011,45976
+Male,Pennsylvania,2011,47956
+Male,Puerto Rico,2011,22529
+Male,Rhode Island,2011,48842
+Male,South Carolina,2011,41464
+Male,South Dakota,2011,40285
+Male,Tennessee,2011,41309
+Male,Texas,2011,43160
+Male,Utah,2011,47573
+Male,Vermont,2011,44057
+Male,Virginia,2011,52805
+Male,Washington,2011,53046
+Male,West Virginia,2011,42125
+Male,Wisconsin,2011,46214
+Male,Wyoming,2011,51630
+Female,Alabama,2011,31862
+Female,Alaska,2011,40550
+Female,Arizona,2011,36048
+Female,Arkansas,2011,30752
+Female,California,2011,41817
+Female,Colorado,2011,40236
+Female,Connecticut,2011,47476
+Female,Delaware,2011,40500
+Female,District of Columbia,2011,60332
+Female,Florida,2011,33823
+Female,Georgia,2011,35438
+Female,Hawaii,2011,37242
+Female,Idaho,2011,31238
+Female,Illinois,2011,39150
+Female,Indiana,2011,34023
+Female,Iowa,2011,33745
+Female,Kansas,2011,33269
+Female,Kentucky,2011,32684
+Female,Louisiana,2011,31844
+Female,Maine,2011,34599
+Female,Maryland,2011,48748
+Female,Massachusetts,2011,46185
+Female,Michigan,2011,36931
+Female,Minnesota,2011,40416
+Female,Mississippi,2011,29548
+Female,Missouri,2011,33865
+Female,Montana,2011,31067
+Female,Nebraska,2011,33424
+Female,Nevada,2011,35484
+Female,New Hampshire,2011,41021
+Female,New Jersey,2011,47155
+Female,New Mexico,2011,32316
+Female,New York,2011,42113
+Female,North Carolina,2011,33459
+Female,North Dakota,2011,32462
+Female,Ohio,2011,35746
+Female,Oklahoma,2011,31274
+Female,Oregon,2011,36027
+Female,Pennsylvania,2011,37089
+Female,Puerto Rico,2011,22117
+Female,Rhode Island,2011,41412
+Female,South Carolina,2011,31330
+Female,South Dakota,2011,31329
+Female,Tennessee,2011,33184
+Female,Texas,2011,35301
+Female,Utah,2011,32843
+Female,Vermont,2011,38177
+Female,Virginia,2011,40969
+Female,Washington,2011,40993
+Female,West Virginia,2011,29688
+Female,Wisconsin,2011,35890
+Female,Wyoming,2011,34381
