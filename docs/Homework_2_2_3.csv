@@ -11,8 +11,8 @@ Australia,Pacific,2011,3
 Austria,Europe,2011,100
 Azerbaijan,Asia,2011,106
 Bahamas,Caribbean,2011,26
-Bahrain,Asia,2011,"1,925"
-Bangladesh,Asia,2011,"1,046"
+Bahrain,Asia,2011,1925
+Bangladesh,Asia,2011,1046
 Barbados,Caribbean,2011,637
 Belarus,Asia,2011,46
 Belgium,Europe,2011,359
@@ -78,7 +78,7 @@ Guinea-Bissau,Africa,2011,45
 Guyana,South America,2011,4
 Haiti,Caribbean,2011,365
 Honduras,Central America,2011,69
-"Hong Kong, SAR",Asia,2011,"6,488"
+"Hong Kong, SAR",Asia,2011,6488
 Hungary,Europe,2011,107
 Iceland,Europe,2011,3
 India,Asia,2011,378
@@ -108,14 +108,14 @@ Libya,Africa,2011,4
 Liechtenstein,Europe,2011,226
 Lithuania,Europe,2011,49
 Luxembourg,Europe,2011,200
-"Macao, SAR",Asia,2011,"21,423"
+"Macao, SAR",Asia,2011,21423
 Macedonia,Europe,2011,80
 Madagascar,Africa,2011,36
 Malawi,Africa,2011,134
 Malaysia,Asia,2011,88
-Maldives,Asia,2011,"1,091"
+Maldives,Asia,2011,1091
 Mali,Africa,2011,12
-Malta,Europe,2011,"1,304"
+Malta,Europe,2011,1304
 Marshall Islands,Pacific,2011,304
 Martinique,Caribbean,2011,364
 Mauritania,Africa,2011,3
@@ -123,7 +123,7 @@ Mauritius,Africa,2011,630
 Mayotte,Africa,2011,563
 Mexico,North America,2011,59
 Moldova,Europe,2011,121
-Monaco,Europe,2011,"36,242"
+Monaco,Europe,2011,36242
 Mongolia,Asia,2011,2
 Montenegro,Europe,2011,46
 Morocco,Africa,2011,72
@@ -164,7 +164,7 @@ Senegal,Africa,2011,65
 Serbia,Europe,2011,94
 Seychelles,Africa,2011,194
 Sierra Leone,Africa,2011,75
-Singapore,Pacific,2011,"7,565"
+Singapore,Pacific,2011,7565
 Slovakia,Europe,2011,111
 Slovenia,Europe,2011,101
 Solomon Islands,Pacific,2011,19
