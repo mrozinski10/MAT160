@@ -1,49 +1,49 @@
-﻿state,legality
-Alabama,medical
-Alaska,legal
-Arizona,medical
-Arkansas,medical
-California,legal
-Colorado,legal
-Connecticut,medical
-Delaware,decriminalized
-Florida,medical
-Georgia,medical
-Hawaii,medical
-Idaho,misdemeanor
-Illinois,decriminalized
-Indiana,medical
-Iowa,medical
-Kansas,misdemeanor
-Kentucky,misdemeanor
-Louisiana,medical
-Maine,legal
-Maryland,decriminalized
-Massochusetts,legal
-Michigan,medical
-Minnesota,decriminalized
-Mississippi,decriminalized
-Missouri,misdemeanor
-Montana,medical
-Nebraska,decriminalized
-Nevada,legal
-New Hampshire,decriminalized
-New Jersey,medical
-New Mexico,medical
-New York,decriminalized
-North Carolina,decriminalized
-Ohio,decriminalized
-Oklahoma,medical
-Oregon,legal
-Pennsylvania,medical
-Rhode Island,decriminalized
-South Dakota,misdemeanor
-Tennessee,medical_limited
-Texas,medical_limited
-Utah,misdemeanor
-Vermont,legal
-Virgina,misdemeanor
-Washington,legal
-West Virginia,medical
-Wisconsin,medical_limited
-Wyoming,medical_limited
+﻿notreal,state,legality
+1,Alabama,medical
+2,Alaska,legal
+3,Arizona,medical
+4,Arkansas,medical
+5,California,legal
+5,Colorado,legal
+5,Connecticut,medical
+5,Delaware,decriminalized
+5,Florida,medical
+5,Georgia,medical
+5,Hawaii,medical
+5,Idaho,misdemeanor
+5,Illinois,decriminalized
+5,Indiana,medical
+5,Iowa,medical
+5,Kansas,misdemeanor
+5,Kentucky,misdemeanor
+5,Louisiana,medical
+5,Maine,legal
+5,Maryland,decriminalized
+5,Massochusetts,legal
+5,Michigan,medical
+5,Minnesota,decriminalized
+5,Mississippi,decriminalized
+5,Missouri,misdemeanor
+5,Montana,medical
+5,Nebraska,decriminalized
+5,Nevada,legal
+5,New Hampshire,decriminalized
+5,New Jersey,medical
+5,New Mexico,medical
+5,New York,decriminalized
+5,North Carolina,decriminalized
+5,Ohio,decriminalized
+5,Oklahoma,medical
+5,Oregon,legal
+5,Pennsylvania,medical
+5,Rhode Island,decriminalized
+5,South Dakota,misdemeanor
+5,Tennessee,medical_limited
+5,Texas,medical_limited
+5,Utah,misdemeanor
+5,Vermont,legal
+5,Virgina,misdemeanor
+5,Washington,legal
+5,West Virginia,medical
+5,Wisconsin,medical_limited
+5,Wyoming,medical_limited
