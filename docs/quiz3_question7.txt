@@ -1,0 +1,1 @@
+skill	score	weightDuties	7.5	0.5time	8.2	0.25diversity	3.8	0.13neatness	7.3	0.12
