@@ -1,28 +1,27 @@
 States	Children_13	Children_99
 Alaska	366	202
-Arizona	"3,089"	853
-California	"5,471"	"8,693"
+Arizona	3089	853
+California	5471	8693
 Colorado	769	691
 Connecticut	496	498
-Florida	"3,266"	"1,609"
-Illinois	"1,655"	"5,668"
+Florida	3266	1609
+Illinois	1655	5668
 Iowa	878	735
 Louisiana	622	476
 Maine	295	411
-Michigan	"2,137"	"2,803"
+Michigan	2137	2803
 Minnesota	642	614
 Mississippi	314	288
 Montana	234	236
 Nebraska	461	300
-New Jersey	"1,023"	837
+New Jersey	1023	837
 New Mexico	315	347
-New York	"1,997"	"4,234"
-North Carolina	"1,164"	"1,336"
+New York	1997	4234
+North Carolina	1164	1336
 Oregon	847	831
-Oklahoma	"1,382"	"1,062"
+Oklahoma	1382	1062
 Rhode Island	202	231
 South Dakota	159	378
-Tennessee	"1,161"	431
-Texas	"5,221"	"2,028"
+Tennessee	1161	431
+Texas	5221	2028
 Wisconsin	735	736
-		
