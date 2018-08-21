@@ -1,4 +1,4 @@
-Height,Weight,Age,Gender,Smokes,Alcohol,Exercise,Ran,Pulse1,Pulse2,Year
+height,weight,qge,gender,smokes,alcohol,exercise,ran,pulse1,pulse2,year
 173,57,18,female,no,yes,moderate,sat,86,88,93
 179,58,19,female,no,yes,moderate,ran,82,150,93
 167,62,18,female,no,yes,high,ran,96,176,93
