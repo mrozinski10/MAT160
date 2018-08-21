@@ -1,4 +1,4 @@
-GHO,Indicator,PUBLISH STATES,Year,WHO region,Country,Sex,Life
+GHO,indicator,publish,year,region,country,sex,life
 WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Albania,Male,67
 WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Albania,Female,71
 WHOSIS_000001,Life expectancy at birth (years),Published,1990,Europe,Albania,Both sexes,69
