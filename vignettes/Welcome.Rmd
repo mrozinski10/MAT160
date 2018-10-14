@@ -1,0 +1,29 @@
+---
+title: "Welcome to MAT 160"
+author: "Prof Kozak"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Welcome}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+We're going to have a great semester using R. This document is called a "vignette." It's a way of describing what you need to do to setup the software you're using.
+
+## Starting up
+
+When you first open R, give this command:
+
+```{r eval = FALSE}
+MAT160::startup()
+```
+
+I know the empty `()` looks strange, but there's a reason why it has to be there.
