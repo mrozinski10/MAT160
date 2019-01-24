@@ -1,4 +1,4 @@
-Timestamp,What make is your car/truck?,Gender,How many miles do you live from the Lone Tree Campus?,Favorite ice cream flavor,How much do you pay for rent per month to the nearest dollar?,What is your major?,How tall are you in inches? (Give your answer to the nearest inch),Opinion of winter
+Timestamp,car,gender,distance,ice_cream,rent,major,height,winter
 2019/01/22 3:04:43 PM MST,Chevrolet,Female,5,Butter Pecan,500,Dental Hygiene,63,Don't like it
 2019/01/22 3:03:20 PM MST,Subaru,Male,1,Butter Pecan,600,I.T.,75,Loved it
 2019/01/22 3:03:21 PM MST,Ford,Female,2.4,Chocolate,600,Bio Chem,68,Liked it
