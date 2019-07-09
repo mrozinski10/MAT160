@@ -1,4 +1,4 @@
-state,average,number_CHP,bronze_lowest,silver_lowest,gold_lowest,catastrophic,before,silver_low,browse,second,sivler
+state,average_CHP,bronze_lowest,silver_lowest,gold_lowest,catastrophic,second_silver_pretax,second_silver_posttax,lowest_bronze_posttax,silver_family_pretax,silver_family_posttax,bronze_family_posttax
 AK,34,254,312,401,236,312,107,48,1131,205,0
 AL,7,162,200,248,138,209,145,98,757,282,112
 AR,28,181,231,263,135,241,145,85,873,282,64
