@@ -1,5 +1,4 @@
-﻿"Table with row headers in column A and column headers in rows 5 through 6,52 through 53, 99 through 100,146 through 147, 193 through 194",,,,,
-,number,med_income_current,med_income_2017,mean_income_current,mean_income_2017
+﻿year,number,med_income_current,med_income_2017,mean_income_current,mean_income_2017
 2017,"127,586","61,372","61,372","86,220","86,220"
 2016,"126,224","59,039","60,309","83,143","84,931"
 2015,"125,819","56,516","58,476","79,263","82,012"
