@@ -1,4 +1,4 @@
-Timestamp,What make is your car/truck?,What is your gender,How many miles do you live from the Lone Tree Campus?,What is your favorite ice cream flavor,How much do you pay for rent per month to the nearest dollar?,What is your major?,How tall are you in inches? (Give your answer to the nearest inch),Opinion of winter
+Timestamp,vehicle,gender,distance,ice_cream,rent,major,height,winter
 2020/01/13 2:44:44 PM MST,nissan,Male,1.5,Rocky Road,566,Parks and Recreation ,69,Loved it
 2020/01/13 2:45:02 PM MST,Acura,Male,3,Cookie Dough,450,Business Management,73,Don't like it
 2020/01/13 4:19:49 PM MST,Honda,Male,1.8,Cookie Dough,1250,Science/ eventually Pharmaceuticals,70,Loved it
