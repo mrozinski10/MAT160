@@ -10,7 +10,7 @@ Depends: R (>= 3.4.3)
 License: CCO
 LazyLoad: yes
 LazyData: yes
-RoxygenNote: 6.1.0
+RoxygenNote: 7.0.2
 Encoding: UTF-8
 Suggests: knitr,
     rmarkdown
