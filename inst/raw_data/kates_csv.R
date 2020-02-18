@@ -46,6 +46,12 @@ save(Wages, file = "data/Wages.rda")
 Insurance <- read.csv("docs/insurance.csv")
 save(Insurance, file="data/Insurance.rda")
 
+Metacarpal <- read.csv("docs/metacarpal.csv")
+save(Metacarpal, file = "data/Metacarpal.rda")
+
+House <- read.csv("docs/house.csv")
+save(House, file = "data/House.rda")
+
 # Good files: 
 # 2
 # 3 convert date to a date object
