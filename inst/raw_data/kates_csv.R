@@ -29,6 +29,23 @@ for (k in nums) {
 }
 res <- list()
 
+#  Others
+
+Sugar <- read.csv("docs/sugar.csv")
+save(Sugar, file="data/Sugar.rda")
+
+Class_survey <- read.csv("docs/class_survey.csv")
+save(Class_survey, file = "data/Class_survey.rda")
+
+Tuition <- read.csv("docs/Tuition_4_year.csv")
+save(Tuition, file="data/Tuition.rda")
+
+Wages <- read.csv("docs/wages.csv")
+save(Wages, file = "data/Wages.rda")
+
+Insurance <- read.csv("docs/insurance.csv")
+save(Insurance, file="data/Insurance.rda")
+
 # Good files: 
 # 2
 # 3 convert date to a date object

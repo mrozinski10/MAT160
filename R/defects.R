@@ -1,4 +1,7 @@
-#' Processes used in eyeglass manufacturing
+#' Defects in eyeglass manufacturing
+#'
+#' Types of defects that an Eyeglass company sees in the lenses they
+#' make into eyeglasses.
 #'
 #' @docType data
 #'
@@ -7,10 +10,7 @@
 #' @format A data.frame with one variable. Each row is
 #' one pair of eyeglasses manufactured by Eyeglass-omatic
 #'
-#' - `activity` the operation performed on the eyeglasses. For each
-#' pair of glasses, the company performeds a single operation:
-#' `Assemble`, `Grind`, put the `frames` together. `received` means
-#' the eyeglasses were already totally finished. Guess what `Unknown` means!
+#  type: The type of defect that is Seen when making eyeglasses by Eyeglassomatic
 #'
 #' @keywords datasets
 #'
