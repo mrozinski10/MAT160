@@ -18,7 +18,7 @@
 #' (2013, September 26). Retrieved from http://www.statsci.org/data/oz/rentcap.html
 #'
 #' @references Lee, A. (1994) Data Analysis: 
-#' An introduction based on R. Auck- land: Department of Statistics, 
+#' An introduction based on R. Auckland: Department of Statistics, 
 #' University of Auckland. 
 #' Data courtesy of Sage Consultants Ltd.
 "House"

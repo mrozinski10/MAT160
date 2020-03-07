@@ -5,7 +5,7 @@
 #'
 #' @docType data
 #'
-#' @usage data(Eyeglasses)
+#' @usage data(Defects)
 #'
 #' @format A data.frame with one variable. Each row is
 #' one pair of eyeglasses manufactured by Eyeglass-omatic
@@ -18,4 +18,4 @@
 #' a consultant to Eyeglass-omatic in Australia. (The company’s name is fictitious, but the data is from an actual company.)
 #'
 #'
-"Eyeglasses"
+"Defects"

@@ -22,7 +22,7 @@ domestic properties in Auckland in 1991.
 }
 \references{
 Lee, A. (1994) Data Analysis:
-An introduction based on R. Auck- land: Department of Statistics,
+An introduction based on R. Auckland: Department of Statistics,
 University of Auckland.
 Data courtesy of Sage Consultants Ltd.
 }
