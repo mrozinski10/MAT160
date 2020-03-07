@@ -3,16 +3,18 @@ Type: Package
 Title: Data for MAT 160 for Kathryn Kozak at CCC
 Version: 0.2
 Date: 2018-10-13
-Authors: Kathryn Kozak <kathryn.kozak@coconino.edu>
+Author: Kathryn Kozak <kathryn.kozak@coconino.edu>
 Maintainer: Kathryn Kozak <kathryn.kozak@coconino.edu>
-Description: This is datasets for MAT2160/BUS 232 class at CCC
-Depends: R (>= 3.4.3)
-License: CCO
+Description: Contains datasets for MAT2160/BUS 232 class at CCC.
+Depends: R (>= 3.5.0)
+License: CC0
 LazyLoad: yes
 LazyData: yes
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.0.2
 Encoding: UTF-8
 Suggests: knitr,
-    rmarkdown
+    rmarkdown, 
+    NHANES, mosaic, 
+    magrittr, ggformula
 VignetteBuilder: knitr

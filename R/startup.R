@@ -8,9 +8,9 @@
 #'
 #' @export
 startup <- function() {
-  library(MAT160)
-  library(mosaic)
-  library(ggformula)
-  library(NHANES)
-  library(magrittr)
+  requireNamespace("MAT160")
+  requireNamespace("mosaic")
+  requireNamespace("ggformula")
+  requireNamespace("NHANES")
+  requireNamespace("magrittr")
 }
