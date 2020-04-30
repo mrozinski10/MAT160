@@ -1,0 +1,356 @@
+﻿Id,EmployeeName,JobTitle,BasePay,OvertimePay,OtherPay,Benefits,TotalPay,TotalPayBenefits,LogTotalPayBenefits,Year,Agency,Status
+137480,Stacey B Davis,Medical Evaluations Assistant,49983,0,250,13143.98,50233,63376.98,4.802,2014,San Francisco,FT
+137368,Yesenia Gomez Rodriguez,Medical Evaluations Assistant,49579.75,466.24,1169.19,13274.96,51215.18,64490.14,4.809,2014,San Francisco,FT
+136587,Stephanie Y Miao,Medical Evaluations Assistant,49784.41,0,810,21356.26,50594.41,71950.67,4.857,2014,San Francisco,FT
+136518,Janelle J Leung,Medical Evaluations Assistant,48904.62,1926.8,990,20751.06,51821.42,72572.48,4.861,2014,San Francisco,FT
+136422,Beverly T Maybon,Medical Evaluations Assistant,47476.72,113.34,290,25338.61,47880.06,73218.67,4.865,2014,San Francisco,FT
+136379,Alisa Lai,Medical Evaluations Assistant,49943.63,0,1180,22434.83,51123.63,73558.46,4.867,2014,San Francisco,FT
+136128,Gloria S Perez,Medical Evaluations Assistant,48978.8,0,1630.22,24631.01,50609.02,75240.03,4.876,2014,San Francisco,FT
+136113,Szekai Lai,Medical Evaluations Assistant,50718.04,0,250,24383.65,50968.04,75351.69,4.877,2014,San Francisco,FT
+135900,Ruth S Sandoval,Medical Evaluations Assistant,50051.99,0,410,26329.76,50461.99,76791.75,4.885,2014,San Francisco,FT
+135686,Karina Y Garcia,Medical Evaluations Assistant,51140.43,89.02,0,26853.77,51229.45,78083.22,4.893,2014,San Francisco,FT
+135652,Michelle A Cardarelli,Medical Evaluations Assistant,53266.78,0,250,24774.5,53516.78,78291.28,4.894,2014,San Francisco,FT
+135495,Retna D Agus,Medical Evaluations Assistant,50550.93,409.7,944.23,27339.98,51904.86,79244.84,4.899,2014,San Francisco,FT
+135412,Uzma A Shaikh,Medical Evaluations Assistant,51284.74,226.58,797.82,27430.68,52309.14,79739.82,4.902,2014,San Francisco,FT
+135399,Yoke Peng Yong,Medical Evaluations Assistant,51679.4,0,730,27372.47,52409.4,79781.87,4.902,2014,San Francisco,FT
+135304,Jarvin O Castillo,Medical Evaluations Assistant,51213.32,38.14,1722.85,27257.04,52974.31,80231.35,4.904,2014,San Francisco,FT
+135182,Niall J Quinn,Medical Evaluations Assistant,54580.32,333.15,200,25667.25,55113.47,80780.72,4.907,2014,San Francisco,FT
+134813,Zulema G Gutierrez,Medical Evaluations Assistant,52153.39,0,2106.95,27795.85,54260.34,82056.19,4.914,2014,San Francisco,FT
+134755,Emmielyn S Nicdao,Medical Evaluations Assistant,54719.01,0,250,27359.97,54969.01,82328.98,4.916,2014,San Francisco,FT
+134675,Julia P Pinheiro,Medical Evaluations Assistant,55260.79,0,1500,25865.32,56760.79,82626.11,4.917,2014,San Francisco,FT
+134502,Amelia A Johnson,Medical Evaluations Assistant,56806.8,0,200,26283.94,57006.8,83290.74,4.921,2014,San Francisco,FT
+134236,Lisa Ky,Medical Evaluations Assistant,58060.58,0,250,25930.41,58310.58,84240.99,4.926,2014,San Francisco,FT
+134171,Charlene S Weah Weah,Medical Evaluations Assistant,57303.53,0,250,26965.39,57553.53,84518.92,4.927,2014,San Francisco,FT
+134103,Lichi Liu,Medical Evaluations Assistant,55700.24,0,1270,27836.56,56970.24,84806.8,4.928,2014,San Francisco,FT
+134059,Baoling Zheng,Medical Evaluations Assistant,56460.96,0,1470,27029.29,57930.96,84960.25,4.929,2014,San Francisco,FT
+133986,Francia V Lara,Medical Evaluations Assistant,57622.93,0,1080,26571.06,58702.93,85273.99,4.931,2014,San Francisco,FT
+133979,Cindy Wong,Medical Evaluations Assistant,56064.8,0,1290,27940.96,57354.8,85295.76,4.931,2014,San Francisco,FT
+133971,Polett Rico,Medical Evaluations Assistant,56965.8,0,1240,27127.45,58205.8,85333.25,4.931,2014,San Francisco,FT
+133891,Christina E Zepeda,Medical Evaluations Assistant,57808.98,33.99,1646.9,26138.87,59489.87,85628.74,4.933,2014,San Francisco,FT
+133882,Qi Li Guan,Medical Evaluations Assistant,57675.37,0,1861.65,26118.64,59537.02,85655.66,4.933,2014,San Francisco,FT
+133853,Nelly R Renderos,Medical Evaluations Assistant,57479.94,365.37,1900.31,26033.88,59745.62,85779.5,4.933,2014,San Francisco,FT
+133835,Lorena J Juarez-Fregoso,Medical Evaluations Assistant,57819.51,193,1690,26142.47,59702.51,85844.98,4.934,2014,San Francisco,FT
+133819,Ayanna L Tennie,Medical Evaluations Assistant,59228.5,0,250,26453.8,59478.5,85932.3,4.934,2014,San Francisco,FT
+133792,Nicolina M Ahumada,Medical Evaluations Assistant,47264,13022.61,5804.44,19954.69,66091.05,86045.74,4.935,2014,San Francisco,FT
+133746,Yingzi Chen,Medical Evaluations Assistant,57723.56,0,1220,27291.65,58943.56,86235.21,4.936,2014,San Francisco,FT
+133743,Lien N Thang,Medical Evaluations Assistant,57716.61,0,1240,27293.27,58956.61,86249.88,4.936,2014,San Francisco,FT
+133711,Oscar A Gomez Cruz,Medical Evaluations Assistant,59037.32,333.15,200,26772.39,59570.47,86342.86,4.936,2014,San Francisco,FT
+133618,Claudia L Ulloa,Medical Evaluations Assistant,60771.02,0,250,25637.22,61021.02,86658.24,4.938,2014,San Francisco,FT
+133608,Nina Marie Q Bennett,Medical Evaluations Assistant,58819.38,65.58,1301.34,26498.14,60186.3,86684.44,4.938,2014,San Francisco,FT
+133505,Broderick R Pryor,Medical Evaluations Assistant,59972.75,0,250,26789.38,60222.75,87012.13,4.940,2014,San Francisco,FT
+133432,Veronica Pitteard,Medical Evaluations Assistant,60336.77,0,0,26950.71,60336.77,87287.48,4.941,2014,San Francisco,FT
+133425,Christine Carpenter,Medical Evaluations Assistant,60182.45,0,250,26877.96,60432.45,87310.41,4.941,2014,San Francisco,FT
+133396,Brenda J Medina,Medical Evaluations Assistant,58676.58,776.58,1490.17,26444.98,60943.33,87388.31,4.941,2014,San Francisco,FT
+133394,Lilian L Chen,Medical Evaluations Assistant,60393.18,0,18.48,26979.83,60411.66,87391.49,4.941,2014,San Francisco,FT
+133285,Martha P Tijerino,Medical Evaluations Assistant,59437.14,0,1290,26772.12,60727.14,87499.26,4.942,2014,San Francisco,FT
+133272,Xiao Yan Liao,Medical Evaluations Assistant,59525.8,0,1210,26794.94,60735.8,87530.74,4.942,2014,San Francisco,FT
+133167,Shannon M Lawler,Medical Evaluations Assistant,60537.81,0,250,27038.93,60787.81,87826.74,4.944,2014,San Francisco,FT
+133127,Gladys A Gonzalez,Medical Evaluations Assistant,59743.48,0,1290,26911.54,61033.48,87945.02,4.944,2014,San Francisco,FT
+133067,Liliana J Dominguez,Medical Evaluations Assistant,60043.72,0,1040,27050.4,61083.72,88134.12,4.945,2014,San Francisco,FT
+133055,Jonalyn M Centera,Medical Evaluations Assistant,60771,0,250,27144.55,61021,88165.55,4.945,2014,San Francisco,FT
+133030,Crystal Rui Zhen Yang,Medical Evaluations Assistant,59846.06,0,1390,26979.52,61236.06,88215.58,4.946,2014,San Francisco,FT
+132983,Mayjanna M Li,Medical Evaluations Assistant,60049.29,43.73,1250,27040.76,61343.02,88383.78,4.946,2014,San Francisco,FT
+132954,Heddy W Koga,Medical Evaluations Assistant,60763.71,0,530,27200.96,61293.71,88494.67,4.947,2014,San Francisco,FT
+132934,Thant Thant Kyaw,Medical Evaluations Assistant,60192.75,791.23,616.95,26965.33,61600.93,88566.26,4.947,2014,San Francisco,FT
+132924,Amina M Cheffen,Medical Evaluations Assistant,53502.22,1014.45,5095.22,28975.07,59611.89,88586.96,4.947,2014,San Francisco,FT
+132896,Alma Olmedo-Lopez,Medical Evaluations Assistant,59621.26,84.52,1942.46,27000.52,61648.24,88648.76,4.948,2014,San Francisco,FT
+132874,Lidia C Ruiz,Medical Evaluations Assistant,59750.77,0,1250,27722.94,61000.77,88723.71,4.948,2014,San Francisco,FT
+132826,Evangelina M Tongol,Medical Evaluations Assistant,60756.43,0,332.8,27766.5,61089.23,88855.73,4.949,2014,San Francisco,FT
+132819,Doris H Rhodes-Tsanakas,Medical Evaluations Assistant,60771.01,0,826,27270.7,61597.01,88867.71,4.949,2014,San Francisco,FT
+132757,Mayra X Orellana,Medical Evaluations Assistant,58837.62,2848.32,0,27343.85,61685.94,89029.79,4.950,2014,San Francisco,FT
+132710,Violeta S Estrada,Medical Evaluations Assistant,60771.02,0,1080.51,27336.7,61851.53,89188.23,4.950,2014,San Francisco,FT
+132702,Karla Y Paz,Medical Evaluations Assistant,60313.35,463.3,1270,27165.39,62046.65,89212.04,4.950,2014,San Francisco,FT
+132690,Dionii M Derrick,Medical Evaluations Assistant,60771,1142.81,200,27144.55,62113.81,89258.36,4.951,2014,San Francisco,FT
+132673,Sandeep K Bhuller,Medical Evaluations Assistant,60560.85,1447.68,250,27051.62,62258.53,89310.15,4.951,2014,San Francisco,FT
+132665,Garneth Jean G Rosario,Medical Evaluations Assistant,60666.43,353.28,1042.31,27281.34,62062.02,89343.36,4.951,2014,San Francisco,FT
+132664,Shuxian Huang,Medical Evaluations Assistant,60534.25,206.64,1330,27272.94,62070.89,89343.83,4.951,2014,San Francisco,FT
+132650,Rose Mun,Medical Evaluations Assistant,60771,478.14,874,27280.94,62123.14,89404.08,4.951,2014,San Francisco,FT
+132648,Kyi K Myint,Medical Evaluations Assistant,60689.91,0,864.17,27859.6,61554.08,89413.68,4.951,2014,San Francisco,FT
+132646,Maria A Esquivel,Medical Evaluations Assistant,60129.7,0,2037.4,27254.18,62167.1,89421.28,4.951,2014,San Francisco,FT
+132636,Jennifer Zheng,Medical Evaluations Assistant,60771,0,1300,27385.11,62071,89456.11,4.952,2014,San Francisco,FT
+132629,Shilian Yu,Medical Evaluations Assistant,60771.02,0,1320,27389.14,62091.02,89480.16,4.952,2014,San Francisco,FT
+132607,Elieth S Malfatti,Medical Evaluations Assistant,60771,0,1390,27393.85,62161,89554.85,4.952,2014,San Francisco,FT
+132594,Donna James,Medical Evaluations Assistant,60771.03,872.31,664,27289.92,62307.34,89597.26,4.952,2014,San Francisco,FT
+132593,Christy X Li,Medical Evaluations Assistant,60771.06,0,1430,27402.39,62201.06,89603.45,4.952,2014,San Francisco,FT
+132575,Judy Y Guan,Medical Evaluations Assistant,60771,0,1490,27415.83,62261,89676.83,4.953,2014,San Francisco,FT
+132535,Marita Chan,Medical Evaluations Assistant,60771.01,0,1110,27950.97,61881.01,89831.98,4.953,2014,San Francisco,FT
+132468,Jessica Hernandez,Medical Evaluations Assistant,60771,66.55,1230,27979.33,62067.55,90046.88,4.954,2014,San Francisco,FT
+132467,Alyce I Hau,Medical Evaluations Assistant,60654.41,140.21,1814.94,27438.32,62609.56,90047.88,4.954,2014,San Francisco,FT
+132464,Hong Fang Huang,Medical Evaluations Assistant,60771.01,0,1290,27992.7,62061.01,90053.71,4.955,2014,San Francisco,FT
+132461,Shoumei Yan,Medical Evaluations Assistant,60761.67,0,1310,27993.09,62071.67,90064.76,4.955,2014,San Francisco,FT
+132440,Emma G Martinez,Medical Evaluations Assistant,60771.02,0,1883.39,27512.56,62654.41,90166.97,4.955,2014,San Francisco,FT
+132439,Phuong Y Du,Medical Evaluations Assistant,61004.2,0,1110,28057.23,62114.2,90171.43,4.955,2014,San Francisco,FT
+132429,Julie Cao,Medical Evaluations Assistant,60771,0,1924,27521.41,62695,90216.41,4.955,2014,San Francisco,FT
+132420,Angela Y Chan,Medical Evaluations Assistant,60771,0,1450,28029.52,62221,90250.52,4.955,2014,San Francisco,FT
+132415,Guillermo V Hurtado,Medical Evaluations Assistant,60771,0,1974,27521.62,62745,90266.62,4.956,2014,San Francisco,FT
+132402,Jessica W Wong,Medical Evaluations Assistant,60771.07,0,2013.99,27530.62,62785.06,90315.68,4.956,2014,San Francisco,FT
+132387,Christian H Salas,Medical Evaluations Assistant,60771.02,342.71,1774,27476.99,62887.73,90364.72,4.956,2014,San Francisco,FT
+132375,Liliya Sagadyna,Medical Evaluations Assistant,60771.01,430.17,1230,27983.41,62431.18,90414.59,4.956,2014,San Francisco,FT
+132365,Qiufeng Yu,Medical Evaluations Assistant,60771.02,0,1640,28083.65,62411.02,90494.67,4.957,2014,San Francisco,FT
+132356,Xiaoli Zhang,Medical Evaluations Assistant,60771,0,1660,28088.34,62431,90519.34,4.957,2014,San Francisco,FT
+132300,Griselda Suarez,Medical Evaluations Assistant,61209.75,495.45,1400.82,27596.89,63106.02,90702.91,4.958,2014,San Francisco,FT
+132270,Alfonso G Garcia,Medical Evaluations Assistant,60771,172.51,2274,27587.42,63217.51,90804.93,4.958,2014,San Francisco,FT
+132252,Joan X Yee,Medical Evaluations Assistant,60771,765.53,1874,27498.23,63410.53,90908.76,4.959,2014,San Francisco,FT
+132212,Karen L Duong,Medical Evaluations Assistant,59217.03,3404.49,1690,26752.63,64311.52,91064.15,4.959,2014,San Francisco,FT
+132149,Vanessa M Valencia,Medical Evaluations Assistant,60727.71,641.38,2353.55,27575.32,63722.64,91297.96,4.960,2014,San Francisco,FT
+131991,Joyce Chong-Grogg,Medical Evaluations Assistant,60771.02,662.9,2795.83,27699.55,64229.75,91929.3,4.963,2014,San Francisco,FT
+131978,John Nhieu Q Dang,Medical Evaluations Assistant,60771.01,1303.89,2294,27591.9,64368.9,91960.8,4.964,2014,San Francisco,FT
+131883,Cristina B Sunga,Medical Evaluations Assistant,60283.13,743.33,3600.86,27656.75,64627.32,92284.07,4.965,2014,San Francisco,FT
+131713,Ying Xia Chen,Medical Evaluations Assistant,59310.94,1562.35,4092.77,27982.41,64966.06,92948.47,4.968,2014,San Francisco,FT
+131710,Christine M Wu,Medical Evaluations Assistant,60771.01,2984.97,1730,27467.01,65485.98,92952.99,4.968,2014,San Francisco,FT
+131592,Lorena M Oropeza,Medical Evaluations Assistant,57669.41,2697.44,5896.39,27054.72,66263.24,93317.96,4.970,2014,San Francisco,FT
+131529,Ericka A Pastran,Medical Evaluations Assistant,50341.94,11959.54,8197.74,23054.6,70499.22,93553.82,4.971,2014,San Francisco,FT
+130795,Joseph Mulero,Medical Evaluations Assistant,60603.76,4151.61,4160.24,27271.87,68915.61,96187.48,4.983,2014,San Francisco,FT
+129628,Matthew R Wharton,Medical Evaluations Assistant,56168.12,10897.5,5093.26,28824.82,72158.88,100983.7,5.004,2014,San Francisco,FT
+129443,Daniel K Mcatee,Medical Evaluations Assistant,57822.76,6159.55,7800.3,29875.5,71782.61,101658.11,5.007,2014,San Francisco,FT
+129274,Ana T Hernandez,Medical Evaluations Assistant,55609.66,20175.82,1100,25285.75,76885.48,102171.23,5.009,2014,San Francisco,FT
+128578,Corie L Austin,Medical Evaluations Assistant,61918.24,14787.95,805.47,27102.41,77511.66,104614.07,5.020,2014,San Francisco,FT
+128045,Yesenia Martinez,Medical Evaluations Assistant,62857.93,11399.64,3913.12,28207.77,78170.69,106378.46,5.027,2014,San Francisco,FT
+127521,Jeanne M Andaya,Medical Evaluations Assistant,59983.96,17833.06,2817.92,27410.61,80634.94,108045.55,5.034,2014,San Francisco,FT
+127011,Sandra S Green,Medical Evaluations Assistant,63792.79,10194.8,6445.53,29165.86,80433.12,109598.98,5.040,2014,San Francisco,FT
+126721,Bianca A Taylor,Medical Evaluations Assistant,63434.42,19399.46,200,27642.92,83033.88,110676.8,5.044,2014,San Francisco,FT
+126304,Carmen I Urbina,Medical Evaluations Assistant,61666.12,14501.8,6589.17,29542.52,82757.09,112299.61,5.050,2014,San Francisco,FT
+123525,Kimberley King-Stitt,Medical Evaluations Assistant,61651.51,35007.83,1068.63,27052.34,97727.97,124780.31,5.096,2014,San Francisco,FT
+137190,Benjamin D Aigbe,Patient Care Assistant,44293.01,9598.81,256.76,11743.15,54148.58,65891.73,4.819,2014,San Francisco,FT
+137173,Gerry Johnson,Patient Care Assistant,52872.72,0,610.34,12566.86,53483.06,66049.92,4.820,2014,San Francisco,FT
+136855,Zin Mar Min Nyo,Patient Care Assistant,41072.16,3293.02,392.55,24613.57,44757.73,69371.3,4.841,2014,San Francisco,FT
+136623,Michael J Mofran,Patient Care Assistant,42631.17,457.21,3222.09,25287.24,46310.47,71597.71,4.855,2014,San Francisco,FT
+136409,Francisco Dela Vega,Patient Care Assistant,52647.25,3397.18,3993.41,13259.14,60037.84,73296.98,4.865,2014,San Francisco,FT
+136396,Svetlana Kuvshinova,Patient Care Assistant,41200.1,7177.14,255.87,24783.47,48633.11,73416.58,4.866,2014,San Francisco,FT
+136354,Zhenting Yang,Patient Care Assistant,44597.1,3522.1,556.2,25088.87,48675.4,73764.27,4.868,2014,San Francisco,FT
+136325,Barbie Y Mojica,Patient Care Assistant,43584.22,5017.47,250,25099.08,48851.69,73950.77,4.869,2014,San Francisco,FT
+136220,Amy L Wong,Patient Care Assistant,42635,4168.48,2165.86,25632.86,48969.34,74602.2,4.873,2014,San Francisco,FT
+136210,Yansong Xu,Patient Care Assistant,42271.4,9704.58,304.08,22429.5,52280.06,74709.56,4.873,2014,San Francisco,FT
+136072,Chalon N Palmer,Patient Care Assistant,45316.42,3295.47,970.92,26009.78,49582.81,75592.59,4.878,2014,San Francisco,FT
+135999,Laura C Molina,Patient Care Assistant,47064,1139.85,1259.9,26577.3,49463.75,76041.05,4.881,2014,San Francisco,FT
+135981,Laketha T Bairfield,Patient Care Assistant,44647.69,6424.9,250,24922.49,51322.59,76245.08,4.882,2014,San Francisco,FT
+135923,Maria Carmela E Jabagat,Patient Care Assistant,46230.4,12409.88,4581.74,13418.01,63222.02,76640.03,4.884,2014,San Francisco,FT
+135795,Arline P Dela Cruz,Patient Care Assistant,44759,3222.21,3024.2,26406.45,51005.41,77411.86,4.889,2014,San Francisco,FT
+135771,Taeho Byun,Patient Care Assistant,48311.85,3212.24,266.26,25758.12,51790.35,77548.47,4.890,2014,San Francisco,FT
+135720,Aileen P Yraola,Patient Care Assistant,44603.6,6118.97,1248.69,25865.03,51971.26,77836.29,4.891,2014,San Francisco,FT
+135599,Mirna R Antolin,Patient Care Assistant,48265.93,2578.46,1310,26441.71,52154.39,78596.1,4.895,2014,San Francisco,FT
+135471,Aung Naing,Patient Care Assistant,46672,1874.77,3767,27076.05,52313.77,79389.82,4.900,2014,San Francisco,FT
+135461,Bessie N Tugade,Patient Care Assistant,43242.78,11517.42,343.98,24350.42,55104.18,79454.6,4.900,2014,San Francisco,FT
+135411,Aisha S Sillemon,Patient Care Assistant,49811.5,1630.72,1112.96,27198.52,52555.18,79753.7,4.902,2014,San Francisco,FT
+135391,Steven Allen M Empacis,Patient Care Assistant,51120.91,1137.6,250,27317.6,52508.51,79826.11,4.902,2014,San Francisco,FT
+135262,Limei Mo,Patient Care Assistant,42764.64,12222.42,585.86,24788.27,55572.92,80361.19,4.905,2014,San Francisco,FT
+135224,Kathryne M Mauricio,Patient Care Assistant,51524.2,1379.9,250,27424.75,53154.1,80578.85,4.906,2014,San Francisco,FT
+135198,Denise M Bard,Patient Care Assistant,51528.3,1492.65,250,27420.72,53270.95,80691.67,4.907,2014,San Francisco,FT
+135197,Annie Chen,Patient Care Assistant,51922.38,2514.3,641.51,25619.5,55078.19,80697.69,4.907,2014,San Francisco,FT
+135144,Concepcion Q Santos,Patient Care Assistant,47213,4506.7,3539.84,25684.26,55259.54,80943.8,4.908,2014,San Francisco,FT
+135128,Rickenson T Go,Patient Care Assistant,51027.9,2432.03,250,27304.58,53709.93,81014.51,4.909,2014,San Francisco,FT
+135078,Tonishia Lawrence,Patient Care Assistant,53879.42,320.25,0,27010.1,54199.67,81209.77,4.910,2014,San Francisco,FT
+135046,Suzette V Meyer,Patient Care Assistant,54043.01,640.5,48.62,26563.71,54732.13,81295.84,4.910,2014,San Francisco,FT
+134947,Nicolas M Arienza,Patient Care Assistant,51352.06,3182.67,250,26858.33,54784.73,81643.06,4.912,2014,San Francisco,FT
+134892,Jocelyn M Mamuyac,Patient Care Assistant,46428.21,9050.65,274.83,26095.8,55753.69,81849.49,4.913,2014,San Francisco,FT
+134849,Kalpana Lama,Patient Care Assistant,48952.1,5910.97,250,26792.01,55113.07,81905.08,4.913,2014,San Francisco,FT
+134832,James O Ellis Jr,Patient Care Assistant,53921.1,1552.65,16.59,26497.8,55490.34,81988.14,4.914,2014,San Francisco,FT
+134826,Jexse Y Campo Membreno,Patient Care Assistant,52115.82,2161.74,1357.99,26368.92,55635.55,82004.47,4.914,2014,San Francisco,FT
+134808,Fnu Moneta,Patient Care Assistant,47204,8270.36,250,26358.66,55724.36,82083.02,4.914,2014,San Francisco,FT
+134784,Godfrey Johnson Jr,Patient Care Assistant,54043,1555.8,31.42,26549.98,55630.22,82180.2,4.915,2014,San Francisco,FT
+134781,Khin T Shwe,Patient Care Assistant,49333.1,1554.06,3580.11,27726.24,54467.27,82193.51,4.915,2014,San Francisco,FT
+134766,Shirley D Ochoa,Patient Care Assistant,50535.87,4824.45,270.74,26629.29,55631.06,82260.35,4.915,2014,San Francisco,FT
+134740,Marie Ann H Dela Vega,Patient Care Assistant,49686,5430.96,250,26985.09,55366.96,82352.05,4.916,2014,San Francisco,FT
+134668,Maria D Castro,Patient Care Assistant,51129.2,4039.23,250,27238.84,55418.43,82657.27,4.917,2014,San Francisco,FT
+134662,Reynaldo Mesina,Patient Care Assistant,45301.5,11258.18,250,25890.01,56809.68,82699.69,4.918,2014,San Francisco,FT
+134442,Lai S Lu,Patient Care Assistant,49371.9,2473.8,3878.36,27822.96,55724.06,83547.02,4.922,2014,San Francisco,FT
+134420,Nancy B Bonilla,Patient Care Assistant,53835.6,2863.29,392.84,26536.39,57091.73,83628.12,4.922,2014,San Francisco,FT
+134418,Patrick James V Salvosa,Patient Care Assistant,54043.01,1253.7,250,28085.29,55546.71,83632,4.922,2014,San Francisco,FT
+134410,Nelly V Marquez,Patient Care Assistant,54043,2517.42,444.08,26647.15,57004.5,83651.65,4.922,2014,San Francisco,FT
+134335,Tereese R Sanders,Patient Care Assistant,51268.32,5648.8,250,26765.67,57167.12,83932.79,4.924,2014,San Francisco,FT
+134255,Fe L Purganan,Patient Care Assistant,54030.04,2815.5,623.85,26690.78,57469.39,84160.17,4.925,2014,San Francisco,FT
+134250,Sharifa Rahman,Patient Care Assistant,54043.01,2833.65,624,26678.7,57500.66,84179.36,4.925,2014,San Francisco,FT
+134234,Veronica Valle,Patient Care Assistant,51223.22,1274.61,3490.93,28260.7,55988.76,84249.46,4.926,2014,San Francisco,FT
+134212,Joyevane D Pate,Patient Care Assistant,53238.98,2929.09,316.19,27865.33,56484.26,84349.59,4.926,2014,San Francisco,FT
+134199,Analiza E Cruz,Patient Care Assistant,49498,7679.64,268.81,26960.23,57446.45,84406.68,4.926,2014,San Francisco,FT
+134198,Jonick A Alday,Patient Care Assistant,42081.71,20369.89,330.1,21626.93,62781.7,84408.63,4.926,2014,San Francisco,FT
+134165,Tenzin Legmon,Patient Care Assistant,49949.2,2702.93,3907.47,27990.09,56559.6,84549.69,4.927,2014,San Francisco,FT
+134145,Tenzin Chodon,Patient Care Assistant,43755.08,11312.8,3469.8,26103.85,58537.68,84641.53,4.928,2014,San Francisco,FT
+134118,Jamir N Barrion,Patient Care Assistant,54004.12,3460.8,623.55,26679.12,58088.47,84767.59,4.928,2014,San Francisco,FT
+134104,Benedicta J Burgos,Patient Care Assistant,52003.35,2341.06,3957.7,26503.17,58302.11,84805.28,4.928,2014,San Francisco,FT
+134078,Fernando P Dantis,Patient Care Assistant,51426.6,5768.03,250,27442.84,57444.63,84887.47,4.929,2014,San Francisco,FT
+134046,Rochelle M Evans,Patient Care Assistant,51534.95,2091.62,4938.26,26461.85,58564.83,85026.68,4.930,2014,San Francisco,FT
+134025,Evaristus A Anyamele,Patient Care Assistant,47199.61,5667.95,4745.32,27509.8,57612.88,85122.68,4.930,2014,San Francisco,FT
+134000,Mark Neptune A Naldoza,Patient Care Assistant,53045.44,1166.23,2781.5,28230.17,56993.17,85223.34,4.931,2014,San Francisco,FT
+133901,Nini L Wong,Patient Care Assistant,44736.8,13204.29,1534.22,26107.85,59475.31,85583.16,4.932,2014,San Francisco,FT
+133850,Judith C Pablo,Patient Care Assistant,52845.46,1692.27,4297.47,26953.46,58835.2,85788.66,4.933,2014,San Francisco,FT
+133821,Rex C Obina,Patient Care Assistant,53368.8,4350.3,250,27944.23,57969.1,85913.33,4.934,2014,San Francisco,FT
+133769,Yinlai Liu,Patient Care Assistant,51139.51,2862.21,3805.23,28334.8,57806.95,86141.75,4.935,2014,San Francisco,FT
+133763,Carmen R Vedad,Patient Care Assistant,53012.74,1692.11,4384.07,27065.09,59088.92,86154.01,4.935,2014,San Francisco,FT
+133684,Alfredo N Tanglao Jr,Patient Care Assistant,67948,3165.6,466,14892.3,71579.6,86471.9,4.937,2014,San Francisco,FT
+133660,Peter A Mbah,Patient Care Assistant,54043,693.07,4276.6,27551.17,59012.67,86563.84,4.937,2014,San Francisco,FT
+133653,Dennis L Chan,Patient Care Assistant,48216.38,8999.95,2701.32,26679.96,59917.65,86597.61,4.938,2014,San Francisco,FT
+133623,Eleonor O Castillo,Patient Care Assistant,54043,676.94,4364.79,27566.12,59084.73,86650.85,4.938,2014,San Francisco,FT
+133541,Kauk M Tang,Patient Care Assistant,51514,7678.64,250,27483.08,59442.64,86925.72,4.939,2014,San Francisco,FT
+133467,Lilian D Reyna,Patient Care Assistant,54043.01,3891.72,1730,27494.7,59664.73,87159.43,4.940,2014,San Francisco,FT
+133385,Justina S Vinyard-Paige,Patient Care Assistant,54017.34,723.65,4962.56,27698.61,59703.55,87402.16,4.942,2014,San Francisco,FT
+133311,Rachel E Bargo,Patient Care Assistant,53932.31,1376.42,4546.61,27559.13,59855.34,87414.47,4.942,2014,San Francisco,FT
+133281,Melissa Gutierrez,Patient Care Assistant,53476.88,4013.92,1790,28224.87,59280.8,87505.67,4.942,2014,San Francisco,FT
+133220,Kimberlyn Jeffries,Patient Care Assistant,54043,5841.84,1048.22,26735.26,60933.06,87668.32,4.943,2014,San Francisco,FT
+133207,Deena Marie B Zamora,Patient Care Assistant,52571.37,2814.6,5280.98,27040.98,60666.95,87707.93,4.943,2014,San Francisco,FT
+133122,Xiaoqin Lu,Patient Care Assistant,48952.1,11609.04,482.32,26911.24,61043.46,87954.7,4.944,2014,San Francisco,FT
+133066,Josephine E Micu,Patient Care Assistant,54043,2014.92,4485.44,27591.41,60543.36,88134.77,4.945,2014,San Francisco,FT
+133001,Sheryl Joy V Petalver,Patient Care Assistant,54043,5778.92,347.9,28155.84,60169.82,88325.66,4.946,2014,San Francisco,FT
+132996,Anna M Arienza,Patient Care Assistant,53378.62,6736.15,250,27968.59,60364.77,88333.36,4.946,2014,San Francisco,FT
+132959,Corazon R Sauler,Patient Care Assistant,54017.34,2426.51,4478.21,27563.29,60922.06,88485.35,4.947,2014,San Francisco,FT
+132937,Jing Jing Xie,Patient Care Assistant,47663,14104.6,250,26540.02,62017.6,88557.62,4.947,2014,San Francisco,FT
+132919,Carlito R Mendoza,Patient Care Assistant,45128.09,17372.97,250,25851.66,62751.06,88602.72,4.947,2014,San Francisco,FT
+132860,Thelma Madayag,Patient Care Assistant,54043.01,2074.44,4945.33,27703.42,61062.78,88766.2,4.948,2014,San Francisco,FT
+132696,Joenie N Garcia,Patient Care Assistant,45145.48,17640.19,846.45,25610.32,63632.12,89242.44,4.951,2014,San Francisco,FT
+132655,Maria Suzette D Quioc,Patient Care Assistant,54043,2062.37,4156.71,29120.18,60262.08,89382.26,4.951,2014,San Francisco,FT
+132652,Juan V Sipin,Patient Care Assistant,51642.48,4112.79,4931.05,28707.9,60686.32,89394.22,4.951,2014,San Francisco,FT
+132548,Jacinto A Bautista,Patient Care Assistant,53726.2,3114.87,5293.35,27620.9,62134.42,89755.32,4.953,2014,San Francisco,FT
+132496,Edgar B Pada,Patient Care Assistant,54043,3134.84,5051.08,27725.03,62228.92,89953.95,4.954,2014,San Francisco,FT
+132465,Norberto Pascua,Patient Care Assistant,53829.5,3493.92,5100.08,27628.38,62423.5,90051.88,4.954,2014,San Francisco,FT
+132355,Nekeisha N Logan,Patient Care Assistant,51111.88,10845.59,1056.39,27506.91,63013.86,90520.77,4.957,2014,San Francisco,FT
+132271,Ercilia Alguera De Cruz,Patient Care Assistant,54043,6725.69,1550,28479.53,62318.69,90798.22,4.958,2014,San Francisco,FT
+132260,Arsenio Edwin A Solidum,Patient Care Assistant,53692.2,2788.83,5079.78,29277.07,61560.81,90837.88,4.958,2014,San Francisco,FT
+132238,Maria E Olmedo,Patient Care Assistant,49874,13707.68,265.05,27120.44,63846.73,90967.17,4.959,2014,San Francisco,FT
+132066,Edgar M Ibay,Patient Care Assistant,54043,9274.73,250,28165.48,63567.73,91733.21,4.963,2014,San Francisco,FT
+131864,Aubrey Powell,Patient Care Assistant,53171.67,7017.41,4760.43,27395.06,64949.51,92344.57,4.965,2014,San Francisco,FT
+131690,Alex C Cancino Jr.,Patient Care Assistant,44954.85,16788.55,4429.77,26845.15,66173.17,93018.32,4.969,2014,San Francisco,FT
+131687,Mark A Uy,Patient Care Assistant,62965.36,1596.63,1586.39,26887.58,66148.38,93035.96,4.969,2014,San Francisco,FT
+131619,Allan F Damasco,Patient Care Assistant,53529.8,11424.13,265.34,28003.09,65219.27,93222.36,4.970,2014,San Francisco,FT
+131535,Elroy G Ubay Ubay,Patient Care Assistant,50421.79,15885.39,250,26947.22,66557.18,93504.4,4.971,2014,San Francisco,FT
+131502,Phoebe B Markham,Patient Care Assistant,51279.29,11659.76,2656.68,28087.96,65595.73,93683.69,4.972,2014,San Francisco,FT
+131447,Guiqin Q Zhang,Patient Care Assistant,59446.8,2086.28,3239.37,29120.29,64772.45,93892.74,4.973,2014,San Francisco,FT
+131404,Noe Madrigal,Patient Care Assistant,53638.31,11285.56,767.97,28214.86,65691.84,93906.7,4.973,2014,San Francisco,FT
+131393,Angelito F Saldajeno,Patient Care Assistant,54014.2,6619.51,4154.76,29156.32,64788.47,93944.79,4.973,2014,San Francisco,FT
+131388,Rosemary T Beltran,Patient Care Assistant,50621.21,15983.22,250,27109.55,66854.43,93963.98,4.973,2014,San Francisco,FT
+131295,Leah Yvette P Malapit,Patient Care Assistant,49742.4,13045.93,3589.07,27953.65,66377.4,94331.05,4.975,2014,San Francisco,FT
+131101,Jose Carlos C Santos,Patient Care Assistant,59158.09,3104.73,4268.79,28496.7,66531.61,95028.31,4.978,2014,San Francisco,FT
+131087,Christine Johnson,Patient Care Assistant,60088.58,6759.96,250,27981,67098.54,95079.54,4.978,2014,San Francisco,FT
+131041,Yolanda T Porta,Patient Care Assistant,64847.21,2745.9,250,27397.11,67843.11,95240.22,4.979,2014,San Francisco,FT
+130984,Salvacion F Quines,Patient Care Assistant,54017.34,2449.85,11306.25,27685.4,67773.44,95458.84,4.980,2014,San Francisco,FT
+130967,Leonor A Naldoza,Patient Care Assistant,49430.11,13268.91,4659.11,28154.23,67358.13,95512.36,4.980,2014,San Francisco,FT
+130879,Louel S Villaraza,Patient Care Assistant,53466.8,14084.74,250,28064.85,67801.54,95866.39,4.982,2014,San Francisco,FT
+130874,Juliet V Delos Santos,Patient Care Assistant,65341,1968.45,850,27723.12,68159.45,95882.57,4.982,2014,San Francisco,FT
+130822,Roberto G Gonzales,Patient Care Assistant,50052.6,14014.23,3927.27,28134.59,67994.1,96128.69,4.983,2014,San Francisco,FT
+130712,Blessilda G De Castro,Patient Care Assistant,53601.32,9859.28,4136.01,28963.62,67596.61,96560.23,4.985,2014,San Francisco,FT
+130607,Sybil D Neal,Patient Care Assistant,66076.02,2042.22,856.72,28055.24,68974.96,97030.2,4.987,2014,San Francisco,FT
+130562,Renu Bala,Patient Care Assistant,49592,15943.18,3728.01,27977.31,69263.19,97240.5,4.988,2014,San Francisco,FT
+130549,Raymond V Francisco,Patient Care Assistant,60656.72,2934.45,4449.4,29237.74,68040.57,97278.31,4.988,2014,San Francisco,FT
+130468,Jonathan R Combes,Patient Care Assistant,60204.2,2280.47,5693.67,29433.6,68178.34,97611.94,4.990,2014,San Francisco,FT
+130274,Griselda D Orozco,Patient Care Assistant,60398.62,2685.66,5840.87,29445.79,68925.15,98370.94,4.993,2014,San Francisco,FT
+130251,Grace Maria Dominguez,Patient Care Assistant,67948,810.3,874,28849.38,69632.3,98481.68,4.993,2014,San Francisco,FT
+130226,Annaliza C Castillo,Patient Care Assistant,67170.9,2764.95,250,28381.62,70185.85,98567.47,4.994,2014,San Francisco,FT
+130216,Adela R Mangawang,Patient Care Assistant,67948,1956.45,0,28710.15,69904.45,98614.6,4.994,2014,San Francisco,FT
+130214,Maria M Langlois,Patient Care Assistant,63914.66,4994.51,2276.87,27446.91,71186.04,98632.95,4.994,2014,San Francisco,FT
+130133,Blanca M Ramirez,Patient Care Assistant,60737.2,7892.71,1730,28626.98,70359.91,98986.89,4.996,2014,San Francisco,FT
+130092,Rosalinda B Munoz,Patient Care Assistant,65792.56,5295.49,250,27793.02,71338.05,99131.07,4.996,2014,San Francisco,FT
+130078,Olga Thomsen,Patient Care Assistant,67923.79,1586.1,873.77,28836.26,70383.66,99219.92,4.997,2014,San Francisco,FT
+130076,Rebecca E Miranda,Patient Care Assistant,67665.6,1968.45,871.37,28727.37,70505.42,99232.79,4.997,2014,San Francisco,FT
+130072,Emmanuel M Busine,Patient Care Assistant,66652,3539.25,773.2,28279.14,70964.45,99243.59,4.997,2014,San Francisco,FT
+129983,Ma Miracle C Correa,Patient Care Assistant,67915.41,2745.9,250,28699.44,70911.31,99610.75,4.998,2014,San Francisco,FT
+129951,Nathaniel F R V Cruz,Patient Care Assistant,67948,2866.46,250,28707.26,71064.46,99771.72,4.999,2014,San Francisco,FT
+129869,Rocky B Basas,Patient Care Assistant,67948,3156,250,28707.26,71354,100061.26,5.000,2014,San Francisco,FT
+129725,Joan H Burns,Patient Care Assistant,51809.8,15254.31,4705.25,28808.6,71769.36,100577.96,5.003,2014,San Francisco,FT
+129661,Analyn M Roble,Patient Care Assistant,67948,3190.01,874,28843.54,72012.01,100855.55,5.004,2014,San Francisco,FT
+129652,Cecil R Intal,Patient Care Assistant,67948,3215.07,874,28843.54,72037.07,100880.61,5.004,2014,San Francisco,FT
+129644,Jotter C Carinal,Patient Care Assistant,67948,1612.77,2166.12,29187.3,71726.89,100914.19,5.004,2014,San Francisco,FT
+129592,Falilat O Griffin,Patient Care Assistant,67948,3434.7,874,28849.38,72256.7,101106.08,5.005,2014,San Francisco,FT
+129579,Anthoney N Bryant,Patient Care Assistant,67948,4244.34,250,28713.05,72442.34,101155.39,5.005,2014,San Francisco,FT
+129512,Armand S Manlutac,Patient Care Assistant,67917.28,3731.48,873.72,28833.38,72522.48,101355.86,5.006,2014,San Francisco,FT
+129480,Edna S Lota,Patient Care Assistant,53324.47,14190.75,4922.72,29065.59,72437.94,101503.53,5.006,2014,San Francisco,FT
+129353,Chickie Mullan,Patient Care Assistant,67164.49,5408.11,866.8,28516.49,73439.4,101955.89,5.008,2014,San Francisco,FT
+129238,Ma. Cristina D Lopez,Patient Care Assistant,67948,4641.33,874,28843.54,73463.33,102306.87,5.010,2014,San Francisco,FT
+129168,Yaping X Penta,Patient Care Assistant,62928.82,5396.04,6304.3,27911.04,74629.16,102540.2,5.011,2014,San Francisco,FT
+129162,Mel E Ferrer,Patient Care Assistant,67948.01,2186.78,3058.6,29381.05,73193.39,102574.44,5.011,2014,San Francisco,FT
+129134,Dennis T Deleon,Patient Care Assistant,67948,5012.1,874,28843.54,73834.1,102677.64,5.011,2014,San Francisco,FT
+129103,Linh M Trinh,Patient Care Assistant,51773.03,21061.39,1837.24,28102.27,74671.66,102773.93,5.012,2014,San Francisco,FT
+129060,Kulwant Kaur,Patient Care Assistant,67948,5243.5,874,28849.38,74065.5,102914.88,5.012,2014,San Francisco,FT
+129031,Rey Galimba,Patient Care Assistant,67948,5375.4,874,28846.46,74197.4,103043.86,5.013,2014,San Francisco,FT
+128998,Nick Beronilla,Patient Care Assistant,67939.85,6196.22,291.74,28718.78,74427.81,103146.59,5.013,2014,San Francisco,FT
+128996,Charbel A Benard,Patient Care Assistant,67536.5,6193.53,774.22,28649.46,74504.25,103153.71,5.013,2014,San Francisco,FT
+128990,Debra D Dobson,Patient Care Assistant,67880.93,2422.6,3483.49,29380.68,73787.02,103167.7,5.014,2014,San Francisco,FT
+128866,April R Morrell,Patient Care Assistant,66030.65,2383.41,6023.43,29166.84,74437.49,103604.33,5.015,2014,San Francisco,FT
+128800,Marilyn V Panahon,Patient Care Assistant,64404.52,4478.69,6362.26,28565.63,75245.47,103811.1,5.016,2014,San Francisco,FT
+128757,Xu Sheng Jia,Patient Care Assistant,52547.2,21345.39,1730,28286.4,75622.59,103908.99,5.017,2014,San Francisco,FT
+128742,Rolando C Soriano,Patient Care Assistant,66104.7,8898.26,898.65,28083,75901.61,103984.61,5.017,2014,San Francisco,FT
+128696,Fred Robino,Patient Care Assistant,65069.72,3517.46,6672.87,28903.42,75260.05,104163.47,5.018,2014,San Francisco,FT
+128666,Carmelita L Domingo,Patient Care Assistant,67880.9,2832.09,4003.16,29557.63,74716.15,104273.78,5.018,2014,San Francisco,FT
+128603,Louise T Valdez,Patient Care Assistant,51466.87,19143.76,5059.95,28846.77,75670.58,104517.35,5.019,2014,San Francisco,FT
+128505,Marisa R Tanglao,Patient Care Assistant,67948.02,7329.73,706,28807.71,75983.75,104791.46,5.020,2014,San Francisco,FT
+128371,Liceria P Allen,Patient Care Assistant,64735.49,5977.51,5979.59,28606.37,76692.59,105298.96,5.022,2014,San Francisco,FT
+128368,Concepcion V Magat,Patient Care Assistant,44571,33635.2,1006.04,26129.85,79212.24,105342.09,5.023,2014,San Francisco,FT
+128253,Segundo Vargas,Patient Care Assistant,67948,2149.59,5723.58,29908.83,75821.17,105730,5.024,2014,San Francisco,FT
+128157,Lita S Escobar,Patient Care Assistant,67948,8404.15,874,28849.38,77226.15,106075.53,5.026,2014,San Francisco,FT
+128137,Steven W Rensch,Patient Care Assistant,67948,8451.54,874,28849.38,77273.54,106122.92,5.026,2014,San Francisco,FT
+128117,Brenda R Abarquez,Patient Care Assistant,67948,8663.5,778,28823.07,77389.5,106212.57,5.026,2014,San Francisco,FT
+127971,Arthur N Catacutan,Patient Care Assistant,67948,2987.07,5766.98,29915.2,76702.05,106617.25,5.028,2014,San Francisco,FT
+127954,Elizabeth V Garcia,Patient Care Assistant,67948,9013.5,874,28843.54,77835.5,106679.04,5.028,2014,San Francisco,FT
+127676,Brenda F Peralta,Patient Care Assistant,66657,12152.37,466,28213.84,79275.37,107489.21,5.031,2014,San Francisco,FT
+127662,Veherlene E Reyes,Patient Care Assistant,67689.81,3890.24,6099.32,29877.95,77679.37,107557.32,5.032,2014,San Francisco,FT
+127646,Madu A Madu,Patient Care Assistant,53757.09,19574.02,4929.83,29344.3,78260.94,107605.24,5.032,2014,San Francisco,FT
+127584,Michael Noordzee,Patient Care Assistant,67948.01,3076.65,6649.31,30110.28,77673.97,107784.25,5.033,2014,San Francisco,FT
+127449,Marilyn R Williams,Patient Care Assistant,64287.57,9137.43,6366.82,28509.77,79791.82,108301.59,5.035,2014,San Francisco,FT
+127439,Cynthia D Carter,Patient Care Assistant,67931.22,10711.14,873.85,28836.41,79516.21,108352.62,5.035,2014,San Francisco,FT
+127416,Theresa A Rutherford,Patient Care Assistant,65048.93,8327.55,6284.72,28788.44,79661.2,108449.64,5.035,2014,San Francisco,FT
+127331,Steven C South,Patient Care Assistant,67948,11035.89,874,28846.46,79857.89,108704.35,5.036,2014,San Francisco,FT
+127275,Rosemarie Liwanag,Patient Care Assistant,67932.18,3898.97,6831.94,30140.77,78663.09,108803.86,5.037,2014,San Francisco,FT
+127269,Democrito Jose,Patient Care Assistant,65768.87,8618.26,5501.51,28941.8,79888.64,108830.44,5.037,2014,San Francisco,FT
+127233,Ruth S Bacuyani,Patient Care Assistant,46123.52,30974.41,4617.43,27285.21,81715.36,109000.57,5.037,2014,San Francisco,FT
+127181,Eunice O Chibundu,Patient Care Assistant,67391.62,13065.34,250,28476.28,80706.96,109183.24,5.038,2014,San Francisco,FT
+127148,Jocelyn H Raymundo,Patient Care Assistant,67948,11599.65,874,28843.54,80421.65,109265.19,5.038,2014,San Francisco,FT
+127130,Kuldip Kaur,Patient Care Assistant,67049.78,7071.2,5700.6,29519.83,79821.58,109341.41,5.039,2014,San Francisco,FT
+126990,Edna V Dimailig,Patient Care Assistant,67948.01,5243.67,6458.84,30065.18,79650.52,109715.7,5.040,2014,San Francisco,FT
+126982,Delano S Afonsoewa,Patient Care Assistant,67874.91,5831.44,6098.18,29956.42,79804.53,109760.95,5.040,2014,San Francisco,FT
+126930,Gonzalo D Rodriguez,Patient Care Assistant,67948,4593.08,7205.04,30229.99,79746.12,109976.11,5.041,2014,San Francisco,FT
+126847,Miriam T Celestan,Patient Care Assistant,67687.3,12978.82,775.6,28713.66,81441.72,110155.38,5.042,2014,San Francisco,FT
+126846,Salvacion G Aldon,Patient Care Assistant,67948,5865.95,6309.1,30033.41,80123.05,110156.46,5.042,2014,San Francisco,FT
+126803,Arturo S Dela Rosa,Patient Care Assistant,67948,6885.7,5621.58,29884.53,80455.28,110339.81,5.043,2014,San Francisco,FT
+126751,Romeo Cabasal,Patient Care Assistant,67687.31,5848.19,6958.02,30059.31,80493.52,110552.83,5.044,2014,San Francisco,FT
+126734,Christine Q Fermin,Patient Care Assistant,67948.02,5686.75,6855.31,30149.2,80490.08,110639.28,5.044,2014,San Francisco,FT
+126661,Stella L Yeung,Patient Care Assistant,67948,11552.08,2254,29150.92,81754.08,110905,5.045,2014,San Francisco,FT
+126638,Edmundo Z Ferraro,Patient Care Assistant,67948,7369.89,5766.27,29915.46,81084.16,110999.62,5.045,2014,San Francisco,FT
+126584,Agnes Trinidad,Patient Care Assistant,67937.25,13598.57,873.9,28844.75,82409.72,111254.47,5.046,2014,San Francisco,FT
+126533,Nerissa T Marte,Patient Care Assistant,67948.01,7018.98,6413.23,30057.21,81380.22,111437.43,5.047,2014,San Francisco,FT
+126493,Lourdes C Delarosa,Patient Care Assistant,68208.71,6378.57,6789.78,30248.33,81377.06,111625.39,5.048,2014,San Francisco,FT
+126482,Nancy P Lacap,Patient Care Assistant,67931.87,7326.7,6360.77,30035.49,81619.34,111654.83,5.048,2014,San Francisco,FT
+126444,Linaflor B Huab,Patient Care Assistant,67948,7545.51,6247.39,30022.43,81740.9,111763.33,5.048,2014,San Francisco,FT
+126363,Mansueto G Mansueto,Patient Care Assistant,52276.46,31677.21,250,27926.02,84203.67,112129.69,5.050,2014,San Francisco,FT
+126295,Jie Ru Li-Yuen,Patient Care Assistant,45318.5,40566.64,250,26187.63,86135.14,112322.77,5.050,2014,San Francisco,FT
+126292,Clint I Pereyra,Patient Care Assistant,67948.01,7153.9,7041.42,30191.52,82143.33,112334.85,5.051,2014,San Francisco,FT
+126264,Albert G Bartolome,Patient Care Assistant,67541.92,8650.16,6358.77,29876.07,82550.85,112426.92,5.051,2014,San Francisco,FT
+126032,Ma.Teresa M Gamit,Patient Care Assistant,67687.3,8770.74,6906.28,30058.17,83364.32,113422.49,5.055,2014,San Francisco,FT
+125799,Lex Amado B Huab,Patient Care Assistant,67948.01,11756.18,5007.58,29739.32,84711.77,114451.09,5.059,2014,San Francisco,FT
+125758,Evangeline P Blanco,Patient Care Assistant,67431.6,17610.27,869.2,28628.7,85911.07,114539.77,5.059,2014,San Francisco,FT
+125593,Pearline Bell,Patient Care Assistant,52670.01,28678.98,4903.09,28864.98,86252.08,115117.06,5.061,2014,San Francisco,FT
+125476,Hattie N Johnson-Minor,Patient Care Assistant,67948.01,10510.61,6929.12,30171.61,85387.74,115559.35,5.063,2014,San Francisco,FT
+125407,Shanti D Dutt,Patient Care Assistant,67948,18201.66,874,28846.46,87023.66,115870.12,5.064,2014,San Francisco,FT
+125300,Emmanuel D Ayala-Ramirez,Patient Care Assistant,67819.12,17211.96,2256.85,29091.62,87287.93,116379.55,5.066,2014,San Francisco,FT
+124869,Jennie U Bugarin,Patient Care Assistant,60150.9,29682.04,250,28117.74,90082.94,118200.68,5.073,2014,San Francisco,FT
+124847,Xiumei Huang,Patient Care Assistant,67948,19565.15,1742,29034.12,89255.15,118289.27,5.073,2014,San Francisco,FT
+124800,Alexander S Palacio,Patient Care Assistant,67915.73,20849.92,873.7,28835.78,89639.35,118475.13,5.074,2014,San Francisco,FT
+124772,Ibiyemi A Alabi,Patient Care Assistant,67948,20930.11,874,28849.38,89752.11,118601.49,5.074,2014,San Francisco,FT
+124762,Liliana Vargas,Patient Care Assistant,67948,19171.34,2354,29169.77,89473.34,118643.11,5.074,2014,San Francisco,FT
+124609,Agnes C Casayuran,Patient Care Assistant,67948.01,27062.81,6482.62,17707.24,101493.44,119200.68,5.076,2014,San Francisco,FT
+124588,Joycelyn Harris,Patient Care Assistant,67849.89,14587.55,6748.01,30091.12,89185.45,119276.57,5.077,2014,San Francisco,FT
+124431,Yolanda C Soriano,Patient Care Assistant,67948.01,20617.19,2414,29180.3,90979.2,120159.5,5.080,2014,San Francisco,FT
+124348,Mariya M Rubel,Patient Care Assistant,67948.01,22873.06,914,28855,91735.07,120590.07,5.081,2014,San Francisco,FT
+124317,Rosita C Gatmen,Patient Care Assistant,67948,17037.02,5867.52,29933.64,90852.54,120786.18,5.082,2014,San Francisco,FT
+124315,Allan M Balancio,Patient Care Assistant,67586.29,16394.93,6837.15,29997.47,90818.37,120815.84,5.082,2014,San Francisco,FT
+124262,Paula E Garay,Patient Care Assistant,67948,21525.21,2396.96,29177.13,91870.17,121047.3,5.083,2014,San Francisco,FT
+124070,Judy N Rivera,Patient Care Assistant,66125.93,20040.18,6586.02,29326.52,92752.13,122078.65,5.087,2014,San Francisco,FT
+124046,Anita E Bowman,Patient Care Assistant,67687.3,18942.3,5810.66,29813.4,92440.26,122253.66,5.087,2014,San Francisco,FT
+123974,Angela P Teodosio,Patient Care Assistant,67948,25647.64,322,28723.4,93917.64,122641.04,5.089,2014,San Francisco,FT
+123887,Edwino S Baril,Patient Care Assistant,67948,26105.4,250,28707.26,94303.4,123010.66,5.090,2014,San Francisco,FT
+123876,Jovic A Montero,Patient Care Assistant,66461.11,21684.95,5641.77,29265.29,93787.83,123053.12,5.090,2014,San Francisco,FT
+123837,Wilson C Ibarra,Patient Care Assistant,67948,19827.44,5599.2,29878.92,93374.64,123253.56,5.091,2014,San Francisco,FT
+123369,Maria Isabel B Agcaoili,Patient Care Assistant,67931.87,21210.72,6335.9,30027.36,95478.49,125505.85,5.099,2014,San Francisco,FT
+122990,Ariel S Aquino,Patient Care Assistant,67948,22622.95,6789.23,30143.91,97360.18,127504.09,5.106,2014,San Francisco,FT
+122849,Azalia Villares,Patient Care Assistant,67948.02,28776.89,2358.3,29173.63,99083.21,128256.84,5.108,2014,San Francisco,FT
+122801,Nena S Ulep,Patient Care Assistant,67817.65,23596.98,6868.46,30104.02,98283.09,128387.11,5.109,2014,San Francisco,FT
+122550,Luzviminda E Ferrer,Patient Care Assistant,67948.02,24300,7112.76,30207.63,99360.78,129568.41,5.112,2014,San Francisco,FT
+122349,Araceli C Uy,Patient Care Assistant,67948,32673.51,894.86,28854.06,101516.37,130370.43,5.115,2014,San Francisco,FT
+121891,Valoria Russell-Benson,Patient Care Assistant,67936.92,27833.95,6857.81,30152.36,102628.68,132781.04,5.123,2014,San Francisco,FT
+121639,Kim H Lit,Patient Care Assistant,60720.91,35871.9,7429.34,29967.13,104022.15,133989.28,5.127,2014,San Francisco,FT
+121423,Alma S Schulman,Patient Care Assistant,67948,37789.11,322,28723.4,106059.11,134782.51,5.130,2014,San Francisco,FT
+121239,Florence M Del Rosario,Patient Care Assistant,67525.38,32128.61,6296.39,29856.58,105950.38,135806.96,5.133,2014,San Francisco,FT
+121043,Johnny Chikere,Patient Care Assistant,67948.01,31942.71,6921.18,30166.78,106811.9,136978.68,5.137,2014,San Francisco,FT
+120877,Jocelyn V Reyes,Patient Care Assistant,67948.01,32644.49,7067.57,30197.41,107660.07,137857.48,5.139,2014,San Francisco,FT
+120623,Lalaine G Salarda,Patient Care Assistant,67948,35275.26,5912.37,29943.98,109135.63,139079.61,5.143,2014,San Francisco,FT
+119161,Maria Susan C Campo,Patient Care Assistant,69240.16,41269.34,7417.62,30826.47,117927.12,148753.59,5.172,2014,San Francisco,FT
+118985,Maria Angelica Y Marquez,Patient Care Assistant,67948.01,45071.96,6885.49,30158.87,119905.46,150064.33,5.176,2014,San Francisco,FT
+118183,Avelina E Pacheco,Patient Care Assistant,67948,49755.83,7070.25,30204.39,124774.08,154978.47,5.190,2014,San Francisco,FT
+117639,San Swe,Patient Care Assistant,67587.92,55891.72,6430.04,29906.95,129909.68,159816.63,5.204,2014,San Francisco,FT
