@@ -1,6 +1,6 @@
-Timestamp,What make is your main car/truck?,Gender,How many miles do you live from the Lone Tree Campus?,Favorite ice cream flavor,How much do you pay for rent or mortgage per month to the nearest dollar?,What is your major?,How tall are you in inches? (Give your answer to the nearest inch),Opinion of winter
+Timestamp,vehicle,sex,distance,ice_cream,rent,major,height,opinion_winter
 2020/08/24 7:31:31 PM MDT,Subaru,Male,5,Cake Batter,650,BioMedical,71,Loved it
-2020/08/24 7:55:14 PM MDT,Toyota,Male,5 miles,I like them all,1758,Forestry,75,Liked it
+2020/08/24 7:55:14 PM MDT,Toyota,Male,5,all,1758,Forestry,75,Liked it
 2020/08/24 7:57:56 PM MDT,Saturn ,Female,1.3,Gelato,368,Bio Education ,64,Liked it
 2020/08/24 8:04:09 PM MDT,Buick,Male,5,Cotton Candy,600,Finance,72,Liked it
 2020/08/25 12:27:40 AM MDT,Honda,Male,12.7,Mint Chocolate Chip,0,Pre Health,69,Don't like it
@@ -8,13 +8,14 @@ Timestamp,What make is your main car/truck?,Gender,How many miles do you live fr
 2020/08/25 2:49:06 PM MDT,Chevrolet,Male,3,Strawberry,700,Forestry ,72,Loved it
 2020/08/25 7:35:28 PM MDT,Kia,Female,2,Strawberry,700,communication sciences and disorders ,62,Loved it
 2020/08/25 9:50:44 PM MDT,Toyota,,14,Reese's Peanut Butter Cup,560,General Business ,70,Loved it
-2020/08/26 10:21:50 AM MDT,Volkswagen,Male,About 5 miles,Mint Chocolate Chip,2100,Business,74,Loved it
-2020/08/26 10:33:08 AM MDT,Ford,Female,2.2 mi,Sherbet,678,Environmental Science,64,Loved it
+2020/08/26 10:21:50 AM MDT,Volkswagen,Male,5,Mint Chocolate Chip,2100,Business,74,Loved it
+2020/08/26 10:33:08 AM MDT,Ford,Female,2.2,Sherbet,678,Environmental Science,64,Loved it
 2020/08/26 10:48:05 AM MDT,Nissan,Male,4,Cookie Dough,450,Finance,73,Liked it
 2020/08/26 11:02:05 AM MDT,Jeep,Female,5,Vanilla bean,250,Nursing ,63,Liked it
-2020/08/26 11:13:49 AM MDT,Ford,Male,2.3 miles,Cookie Dough,784,Business management,67,Loved it
+2020/08/26 11:13:49 AM MDT,Ford,Male,2.3,Cookie Dough,784,Business management,67,Loved it
 2020/08/26 12:17:27 PM MDT,Toyota,Male,3.5,Strawberry,600,Business Marketing,74,Loved it
 2020/08/26 12:18:26 PM MDT,Dodge,Male,6,Cookies and Cream,1450,business,71,Loved it
-2020/08/26 12:22:31 PM MDT,chrysler,Male,1 mile,Strawberry,1481,Forestry/Wildlife Management,72,Loved it
+2020/08/26 12:22:31 PM MDT,chrysler,Male,1,Strawberry,1481,Forestry/Wildlife Management,72,Loved it
 2020/08/28 6:01:15 PM MDT,Ford,Female,3,Cookies and Cream,800,Marketing,64,Liked it
 2020/08/30 10:55:12 PM MDT,Ford,Female,40,Sherbet,850,Physical therapy ,67,Loved it
+2020/08/31 10:54:26 AM MDT,Chevrolet,Female,1,Cookie Dough,1325,Business,63,Hated it
