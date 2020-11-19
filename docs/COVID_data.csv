@@ -1,52 +1,52 @@
-﻿state,location,per_symp,per_mask
-AK,west,33,82
-AL,south,27,80
-AR,south,30,83
-AZ,west,18,86
-CA,west,15,90
-CO,west,21,85
-CT,northeast,15,92
-DC,south,11,97
-DE,south,18,93
-FL,south,20,83
-GA,south,24,80
-HI,west,12,91
-IA,midwest,33,74
-ID,midwest,37,73
-IL,midwest,24,86
-IN,midwest,30,81
-KS,midwest,31,79
-KY,south,29,83
-LA,south,24,76
-MA,northeast,13,93
-MD,south,16,92
-ME,northeast,15,86
-MI,midwest,22,85
-MN,midwest,25,86
-MO,midwest,33,77
-MS,south,26,77
-MT,west,39,78
-NC,south,23,83
-ND,midwest,45,72
-NE,midwest,36,79
-NH,northeast,15,87
-NJ,northeast,14,91
-NM,west,22,86
-NV,west,21,88
-NY,northeast,14,92
-OH,midwest,23,83
-OK,south,32,75
-OR,west,17,86
-PA,northeast,17,84
-RI,northeast,16,93
-SC,south,45,65
-SD,midwest,45,65
-TN,south,29,77
-TX,south,26,85
-UT,west,34,82
-VA,south,12,90
-VT,northeast,12,90
-WA,west,16,89
-WI,midwest,35,84
-WV,south,30,82
-WY,west,36,63
+state	location	restriction	per_symp	per_mask
+AK	west	none	33	82
+AL	south	minor	27	80
+AR	south	minor	30	83
+AZ	west	minor	18	86
+CA	west	major	15	90
+CO	west	moderate	21	85
+CT	northeast	moderate	15	92
+DC	south	moderate	11	97
+DE	south	moderate	18	93
+FL	south	minor	20	83
+GA	south	minor	24	80
+HI	west	moderate	12	91
+IA	midwest	minor	33	74
+ID	midwest	minor	37	73
+IL	midwest	moderate	24	86
+IN	midwest	minor	30	81
+KS	midwest	minor	31	79
+KY	south	minor	29	83
+LA	south	minor	24	76
+MA	northeast	moderate	13	93
+MD	south	moderate	16	92
+ME	northeast	minor	15	86
+MI	midwest	minor	22	85
+MN	midwest	minor	25	86
+MO	midwest	minor	33	77
+MS	south	minor	26	77
+MT	west	minor	39	78
+NC	south	moderate	23	83
+ND	midwest	minor	45	72
+NE	midwest	minor	36	79
+NH	northeast	minor	15	87
+NJ	northeast	moderate	14	91
+NM	west	moderate	22	86
+NV	west	minor	21	88
+NY	northeast	moderate	14	92
+OH	midwest	minor	23	83
+OK	south	minor	32	75
+OR	west	moderate	17	86
+PA	northeast	moderate	17	84
+RI	northeast	minor	16	93
+SC	south	minor	45	65
+SD	midwest	minor	45	65
+TN	south	moderate	29	77
+TX	south	minor	26	85
+UT	west	minor	34	82
+VA	south	minor	12	90
+VT	northeast	minor	12	90
+WA	west	moderate	16	89
+WI	midwest	minor	35	84
+WV	south	none	30	82
+WY	west	minor	36	63
