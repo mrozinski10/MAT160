@@ -1,0 +1,106 @@
+Entity,Code,Domestic_aviation_CO2,Income_group
+Australia,AUS,6.651930004,High income
+Austria,AUT,0.032810661,High income
+Bahrain,BHR,0,High income
+Belgium,BEL,0,High income
+Brunei,BRN,0,High income
+Canada,CAN,6.238513117,High income
+Chile,CHL,1.319614519,High income
+Croatia,HRV,0.033746125,High income
+Czech Republic,CZE,0.002482477,High income
+Denmark,DNK,0.184111022,High income
+Finland,FIN,0.207012637,High income
+France,FRA,4.52770255,High income
+Germany,DEU,1.52758164,High income
+Greece,GRC,0.408438,High income
+Hungary,HUN,0.000188337,High income
+Iceland,ISL,0.024036141,High income
+Ireland,IRL,0.004862671,High income
+Israel,ISR,0.057137803,High income
+Italy,ITA,2.251218414,High income
+Japan,JPN,9.407669323,High income
+Kuwait,KWT,0,High income
+Latvia,LVA,0.000745868,High income
+Luxembourg,LUX,0,High income
+Malta,MLT,0,High income
+Mauritius,MUS,0.011083909,High income
+Netherlands,NLD,0.472545739,High income
+New Zealand,NZL,0.826176231,High income
+Norway,NOR,1.116870713,High income
+Oman,OMN,0.092246747,High income
+Panama,PAN,0.032238266,High income
+Poland,POL,0.106261655,High income
+Portugal,PRT,0.440505403,High income
+Qatar,QAT,0,High income
+Romania,ROU,0.085693521,High income
+Saudi Arabia,SAU,2.19889393,High income
+Singapore,SGP,0,High income
+South Korea,KOR,1.414946286,High income
+Spain,ESP,2.875440391,High income
+Sweden,SWE,0.546191169,High income
+Switzerland,CHE,0.033377388,High income
+Trinidad and Tobago,TTO,0.023025866,High income
+United Arab Emirates,ARE,0.001327376,High income
+United Kingdom,GBR,1.509466105,High income
+United States,USA,126.1021797,High income
+Afghanistan,AFG,0.055348483,Low income
+Democratic Republic of Congo,COD,0.067447749,Low income
+Ethiopia,ETH,0.121372911,Low income
+Madagascar,MDG,0.027413666,Low income
+Rwanda,RWA,0.001757806,Low income
+Tajikistan,TJK,0.00039351,Low income
+Algeria,DZA,0.186925406,Low income
+Angola,AGO,0.068167749,Low income
+Bangladesh,BGD,0.149009768,Low income
+Bolivia,BOL,0.307597847,Low income
+Cambodia,KHM,0.034328514,Low income
+Egypt,EGY,0.155987695,Low income
+El Salvador,SLV,0,Low income
+India,IND,10.7835175,Low income
+Kenya,KEN,0.364882355,Low income
+Kyrgyzstan,KGZ,0.024670575,Low income
+Moldova,MDA,0,Low income
+Mongolia,MNG,0.012732375,Low income
+Morocco,MAR,0.066681694,Low income
+Myanmar,MMR,0.196821732,Low income
+Nepal,NPL,0.10858367,Low income
+Nigeria,NGA,0.38839201,Low income
+Pakistan,PAK,0.331803561,Low income
+Papua New Guinea,PNG,0.173206391,Low income
+Philippines,PHL,1.725920625,Low income
+Sri Lanka,LKA,0.009598251,Low income
+Tunisia,TUN,0.016347304,Low income
+Ukraine,UKR,0.070446486,Low income
+Uzbekistan,UZB,0.054266702,Low income
+Vietnam,VNM,2.253919049,Low income
+Argentina,ARG,1.545259636,High income
+Azerbaijan,AZE,0.002739179,High income
+Belarus,BLR,0,High income
+Brazil,BRA,8.97761482,High income
+Bulgaria,BGR,0.018741292,High income
+China,CHN,64.5372713,High income
+Colombia,COL,1.530767017,High income
+Costa Rica,CRI,0.006805058,High income
+Cuba,CUB,0.041289751,High income
+Ecuador,ECU,0.21458288,High income
+Fiji,FJI,0.046234721,High income
+Georgia,GEO,0.000525467,High income
+Indonesia,IDN,9.205574216,High income
+Iran,IRN,1.749094568,High income
+Iraq,IRQ,0.060871902,High income
+Jordan,JOR,0.005183161,High income
+Kazakhstan,KAZ,0.632128281,High income
+Lebanon,LBN,0,High income
+Libya,LBY,0.011458971,High income
+Malaysia,MYS,1.900729076,High income
+Mexico,MEX,5.038924664,High income
+Namibia,NAM,0.028115725,High income
+Peru,PER,0.943657305,High income
+Russia,RUS,9.231087094,High income
+Serbia,SRB,0,High income
+South Africa,ZAF,1.449870379,High income
+Suriname,SUR,0,High income
+Thailand,THA,2.586400095,High income
+Turkey,TUR,3.492615829,High income
+Turkmenistan,TKM,0.075539632,High income
+Venezuela,VEN,0.121017572,High income
