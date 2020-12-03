@@ -1,0 +1,101 @@
+State,crime,type
+Alabama,427.4,violent
+Alaska,635.8,violent
+Arizona,399.9,violent
+Arkansas,480.1,violent
+California,396.1,violent
+Colorado,309.1,violent
+Connecticut,236.9,violent
+Delaware,489.1,violent
+Florida,540.5,violent
+Georgia,377.3,violent
+Hawaii,259.2,violent
+Idaho,212.2,violent
+Illinois,370,violent
+Indiana,365.3,violent
+Iowa,273.5,violent
+Kansas,348.6,violent
+Kentucky,211.6,violent
+Louisiana,514.7,violent
+Maine,127.8,violent
+Maryland,446.1,violent
+Massachusetts,391.4,violent
+Michigan,427.3,violent
+Minnesota,229.1,violent
+Mississippi,278.5,violent
+Missouri,442.9,violent
+Montana,323.7,violent
+Nebraska,280.4,violent
+Nevada,635.6,violent
+New Hampshire,196.1,violent
+New Jersey,261.2,violent
+New Mexico,597.4,violent
+New York,381.8,violent
+North Carolina,329.5,violent
+North Dakota,265.1,violent
+Ohio,284.9,violent
+Oklahoma,406,violent
+Oregon,232.3,violent
+Pennsylvania,314.1,violent
+Rhode Island,219.2,violent
+South Carolina,497.7,violent
+South Dakota,326.5,violent
+Tennessee,608.4,violent
+Texas,405.9,violent
+Utah,215.6,violent
+Vermont,99.3,violent
+Virginia,196.2,violent
+Washington,285.2,violent
+West Virginia,302,violent
+Wisconsin,290.3,violent
+Wyoming,195.5,violent
+Alabama,3177.6,property
+Alaska,2760,property
+Arizona,3197.5,property
+Arkansas,3338,property
+California,2441.1,property
+Colorado,2530.1,property
+Connecticut,1920.4,property
+Delaware,2982,property
+Florida,3415.5,property
+Georgia,3281.2,property
+Hawaii,3050,property
+Idaho,1854.8,property
+Illinois,2075.9,property
+Indiana,2649.4,property
+Iowa,2093.8,property
+Kansas,2735.2,property
+Kentucky,2246.9,property
+Louisiana,3458.8,property
+Maine,1986.4,property
+Maryland,2507.5,property
+Massachusetts,1857.1,property
+Michigan,2043.9,property
+Minnesota,2297.5,property
+Mississippi,2921.2,property
+Missouri,2906.5,property
+Montana,2472.9,property
+Nebraska,2523.5,property
+Nevada,2625.4,property
+New Hampshire,1962.7,property
+New Jersey,1734.1,property
+New Mexico,3542.3,property
+New York,1718.2,property
+North Carolina,2873.1,property
+North Dakota,2110.3,property
+Ohio,2799.1,property
+Oklahoma,2990.7,property
+Oregon,2879,property
+Pennsylvania,1931.7,property
+Rhode Island,2173.6,property
+South Carolina,3460.3,property
+South Dakota,1863.9,property
+Tennessee,3060.6,property
+Texas,3019.4,property
+Utah,2878.5,property
+Vermont,1524.4,property
+Virginia,1930.3,property
+Washington,3706.1,property
+West Virginia,2034.7,property
+Wisconsin,2088.3,property
+Wyoming,1964.7,property
