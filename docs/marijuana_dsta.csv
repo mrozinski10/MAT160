@@ -1,0 +1,1260 @@
+﻿person,degree,marijuana
+1,bachelor,not legal
+2,bachelor,legal
+3,graduate,not legal
+4,graduate,legal
+5,high school,not legal
+6,high school,legal
+7,junior college,not legal
+8,junior college,legal
+9,Lt high school,not legal
+10,Lt high school,legal
+11,bachelor,not legal
+12,bachelor,legal
+13,graduate,not legal
+14,graduate,legal
+15,high school,not legal
+16,high school,legal
+17,junior college,not legal
+18,junior college,legal
+19,Lt high school,not legal
+20,Lt high school,legal
+21,bachelor,not legal
+22,bachelor,legal
+23,graduate,not legal
+24,graduate,legal
+25,high school,not legal
+26,high school,legal
+27,junior college,not legal
+28,junior college,legal
+29,Lt high school,not legal
+30,Lt high school,legal
+31,bachelor,not legal
+32,bachelor,legal
+33,graduate,not legal
+34,graduate,legal
+35,high school,not legal
+36,high school,legal
+37,junior college,not legal
+38,junior college,legal
+39,Lt high school,not legal
+40,Lt high school,legal
+41,bachelor,not legal
+42,bachelor,legal
+43,graduate,not legal
+44,graduate,legal
+45,high school,not legal
+46,high school,legal
+47,junior college,not legal
+48,junior college,legal
+49,Lt high school,not legal
+50,Lt high school,legal
+51,bachelor,not legal
+52,bachelor,legal
+53,graduate,not legal
+54,graduate,legal
+55,high school,not legal
+56,high school,legal
+57,junior college,not legal
+58,junior college,legal
+59,Lt high school,not legal
+60,Lt high school,legal
+61,bachelor,not legal
+62,bachelor,legal
+63,graduate,not legal
+64,graduate,legal
+65,high school,not legal
+66,high school,legal
+67,junior college,not legal
+68,junior college,legal
+69,Lt high school,not legal
+70,Lt high school,legal
+71,bachelor,not legal
+72,bachelor,legal
+73,graduate,not legal
+74,graduate,legal
+75,high school,not legal
+76,high school,legal
+77,junior college,not legal
+78,junior college,legal
+79,Lt high school,not legal
+80,Lt high school,legal
+81,bachelor,not legal
+82,bachelor,legal
+83,graduate,not legal
+84,graduate,legal
+85,high school,not legal
+86,high school,legal
+87,junior college,not legal
+88,junior college,legal
+89,Lt high school,not legal
+90,Lt high school,legal
+91,bachelor,not legal
+92,bachelor,legal
+93,graduate,not legal
+94,graduate,legal
+95,high school,not legal
+96,high school,legal
+97,junior college,not legal
+98,junior college,legal
+99,Lt high school,not legal
+100,Lt high school,legal
+101,bachelor,not legal
+102,bachelor,legal
+103,graduate,not legal
+104,graduate,legal
+105,high school,not legal
+106,high school,legal
+107,junior college,not legal
+108,junior college,legal
+109,Lt high school,not legal
+110,Lt high school,legal
+111,bachelor,not legal
+112,bachelor,legal
+113,graduate,not legal
+114,graduate,legal
+115,high school,not legal
+116,high school,legal
+117,junior college,not legal
+118,junior college,legal
+119,Lt high school,not legal
+120,Lt high school,legal
+121,bachelor,not legal
+122,bachelor,legal
+123,graduate,not legal
+124,graduate,legal
+125,high school,not legal
+126,high school,legal
+127,junior college,not legal
+128,junior college,legal
+129,Lt high school,not legal
+130,Lt high school,legal
+131,bachelor,not legal
+132,bachelor,legal
+133,graduate,not legal
+134,graduate,legal
+135,high school,not legal
+136,high school,legal
+137,junior college,not legal
+138,junior college,legal
+139,Lt high school,not legal
+140,Lt high school,legal
+141,bachelor,not legal
+142,bachelor,legal
+143,graduate,not legal
+144,graduate,legal
+145,high school,not legal
+146,high school,legal
+147,junior college,not legal
+148,junior college,legal
+149,Lt high school,not legal
+150,Lt high school,legal
+151,bachelor,not legal
+152,bachelor,legal
+153,graduate,not legal
+154,graduate,legal
+155,high school,not legal
+156,high school,legal
+157,junior college,not legal
+158,junior college,legal
+159,Lt high school,not legal
+160,Lt high school,legal
+161,bachelor,not legal
+162,bachelor,legal
+163,graduate,not legal
+164,graduate,legal
+165,high school,not legal
+166,high school,legal
+167,junior college,not legal
+168,junior college,legal
+169,Lt high school,not legal
+170,Lt high school,legal
+171,bachelor,not legal
+172,bachelor,legal
+173,graduate,not legal
+174,graduate,legal
+175,high school,not legal
+176,high school,legal
+177,junior college,not legal
+178,junior college,legal
+179,Lt high school,not legal
+180,Lt high school,legal
+181,bachelor,not legal
+182,bachelor,legal
+183,graduate,not legal
+184,graduate,legal
+185,high school,not legal
+186,high school,legal
+187,junior college,not legal
+188,junior college,legal
+189,Lt high school,not legal
+190,Lt high school,legal
+191,bachelor,not legal
+192,bachelor,legal
+193,graduate,not legal
+194,graduate,legal
+195,high school,not legal
+196,high school,legal
+197,junior college,not legal
+198,junior college,legal
+199,Lt high school,not legal
+200,Lt high school,legal
+201,bachelor,not legal
+202,bachelor,legal
+203,graduate,not legal
+204,graduate,legal
+205,high school,not legal
+206,high school,legal
+207,junior college,not legal
+208,junior college,legal
+209,Lt high school,not legal
+210,Lt high school,legal
+211,bachelor,not legal
+212,bachelor,legal
+213,graduate,not legal
+214,graduate,legal
+215,high school,not legal
+216,high school,legal
+217,junior college,not legal
+218,junior college,legal
+219,Lt high school,not legal
+220,Lt high school,legal
+221,bachelor,not legal
+222,bachelor,legal
+223,graduate,not legal
+224,graduate,legal
+225,high school,not legal
+226,high school,legal
+227,junior college,not legal
+228,junior college,legal
+229,Lt high school,not legal
+230,Lt high school,legal
+231,bachelor,not legal
+232,bachelor,legal
+233,graduate,not legal
+234,graduate,legal
+235,high school,not legal
+236,high school,legal
+237,junior college,not legal
+238,junior college,legal
+239,Lt high school,not legal
+240,Lt high school,legal
+241,bachelor,not legal
+242,bachelor,legal
+243,graduate,not legal
+244,graduate,legal
+245,high school,not legal
+246,high school,legal
+247,junior college,not legal
+248,junior college,legal
+249,Lt high school,not legal
+250,Lt high school,legal
+251,bachelor,not legal
+252,bachelor,legal
+253,graduate,not legal
+254,graduate,legal
+255,high school,not legal
+256,high school,legal
+257,junior college,not legal
+258,junior college,legal
+259,Lt high school,not legal
+260,Lt high school,legal
+261,bachelor,not legal
+262,bachelor,legal
+263,graduate,not legal
+264,graduate,legal
+265,high school,not legal
+266,high school,legal
+267,junior college,not legal
+268,junior college,legal
+269,Lt high school,not legal
+270,Lt high school,legal
+271,bachelor,not legal
+272,bachelor,legal
+273,graduate,not legal
+274,graduate,legal
+275,high school,not legal
+276,high school,legal
+277,junior college,not legal
+278,junior college,legal
+279,Lt high school,not legal
+280,Lt high school,legal
+281,bachelor,not legal
+282,bachelor,legal
+283,graduate,not legal
+284,graduate,legal
+285,high school,not legal
+286,high school,legal
+287,junior college,not legal
+288,junior college,legal
+289,Lt high school,not legal
+290,Lt high school,legal
+291,bachelor,not legal
+292,bachelor,legal
+293,graduate,not legal
+294,graduate,legal
+295,high school,not legal
+296,high school,legal
+297,junior college,not legal
+298,junior college,legal
+299,Lt high school,not legal
+300,Lt high school,legal
+301,bachelor,not legal
+302,bachelor,legal
+303,graduate,not legal
+304,graduate,legal
+305,high school,not legal
+306,high school,legal
+307,junior college,not legal
+308,junior college,legal
+309,Lt high school,not legal
+310,Lt high school,legal
+311,bachelor,not legal
+312,bachelor,legal
+313,graduate,not legal
+314,graduate,legal
+315,high school,not legal
+316,high school,legal
+317,junior college,not legal
+318,junior college,legal
+319,Lt high school,not legal
+320,Lt high school,legal
+321,bachelor,not legal
+322,bachelor,legal
+323,graduate,not legal
+324,graduate,legal
+325,high school,not legal
+326,high school,legal
+327,junior college,not legal
+328,junior college,legal
+329,Lt high school,not legal
+330,Lt high school,legal
+331,bachelor,not legal
+332,bachelor,legal
+333,graduate,not legal
+334,graduate,legal
+335,high school,not legal
+336,high school,legal
+337,junior college,not legal
+338,junior college,legal
+339,Lt high school,not legal
+340,Lt high school,legal
+341,bachelor,not legal
+342,bachelor,legal
+343,graduate,not legal
+344,graduate,legal
+345,high school,not legal
+346,high school,legal
+347,junior college,not legal
+348,junior college,legal
+349,Lt high school,not legal
+350,Lt high school,legal
+351,bachelor,not legal
+352,bachelor,legal
+353,graduate,not legal
+354,graduate,legal
+355,high school,not legal
+356,high school,legal
+357,junior college,not legal
+358,junior college,legal
+359,Lt high school,not legal
+360,Lt high school,legal
+361,bachelor,not legal
+362,bachelor,legal
+363,graduate,not legal
+364,graduate,legal
+365,high school,not legal
+366,high school,legal
+367,junior college,not legal
+368,junior college,legal
+369,Lt high school,not legal
+370,Lt high school,legal
+371,bachelor,not legal
+372,bachelor,legal
+373,graduate,not legal
+374,graduate,legal
+375,high school,not legal
+376,high school,legal
+377,junior college,not legal
+378,junior college,legal
+379,Lt high school,not legal
+380,Lt high school,legal
+381,bachelor,not legal
+382,bachelor,legal
+383,graduate,not legal
+384,graduate,legal
+385,high school,not legal
+386,high school,legal
+387,junior college,not legal
+388,junior college,legal
+389,Lt high school,not legal
+390,Lt high school,legal
+391,bachelor,not legal
+392,bachelor,legal
+393,graduate,not legal
+394,graduate,legal
+395,high school,not legal
+396,high school,legal
+397,junior college,not legal
+398,junior college,legal
+399,Lt high school,not legal
+400,Lt high school,legal
+401,bachelor,not legal
+402,bachelor,legal
+403,graduate,not legal
+404,graduate,legal
+405,high school,not legal
+406,high school,legal
+407,junior college,not legal
+408,junior college,legal
+409,Lt high school,not legal
+410,Lt high school,legal
+411,bachelor,not legal
+412,bachelor,legal
+413,graduate,not legal
+414,graduate,legal
+415,high school,not legal
+416,high school,legal
+417,junior college,not legal
+418,junior college,legal
+419,Lt high school,not legal
+420,Lt high school,legal
+421,bachelor,not legal
+422,bachelor,legal
+423,graduate,not legal
+424,graduate,legal
+425,high school,not legal
+426,high school,legal
+427,junior college,not legal
+428,Lt high school,not legal
+429,Lt high school,legal
+430,bachelor,not legal
+431,bachelor,legal
+432,graduate,not legal
+433,graduate,legal
+434,high school,not legal
+435,high school,legal
+436,junior college,not legal
+437,Lt high school,not legal
+438,Lt high school,legal
+439,bachelor,not legal
+440,bachelor,legal
+441,graduate,not legal
+442,graduate,legal
+443,high school,not legal
+444,high school,legal
+445,Lt high school,not legal
+446,Lt high school,legal
+447,bachelor,not legal
+448,bachelor,legal
+449,graduate,not legal
+450,graduate,legal
+451,high school,not legal
+452,high school,legal
+453,Lt high school,not legal
+454,Lt high school,legal
+455,bachelor,not legal
+456,bachelor,legal
+457,graduate,not legal
+458,graduate,legal
+459,high school,not legal
+460,high school,legal
+461,Lt high school,not legal
+462,Lt high school,legal
+463,bachelor,not legal
+464,bachelor,legal
+465,graduate,not legal
+466,graduate,legal
+467,high school,not legal
+468,high school,legal
+469,Lt high school,not legal
+470,Lt high school,legal
+471,bachelor,not legal
+472,bachelor,legal
+473,graduate,not legal
+474,graduate,legal
+475,high school,not legal
+476,high school,legal
+477,Lt high school,not legal
+478,Lt high school,legal
+479,bachelor,not legal
+480,bachelor,legal
+481,graduate,not legal
+482,graduate,legal
+483,high school,not legal
+484,high school,legal
+485,Lt high school,not legal
+486,Lt high school,legal
+487,bachelor,not legal
+488,bachelor,legal
+489,graduate,not legal
+490,graduate,legal
+491,high school,not legal
+492,high school,legal
+493,Lt high school,not legal
+494,Lt high school,legal
+495,bachelor,not legal
+496,bachelor,legal
+497,graduate,not legal
+498,graduate,legal
+499,high school,not legal
+500,high school,legal
+501,Lt high school,not legal
+502,Lt high school,legal
+503,bachelor,not legal
+504,bachelor,legal
+505,graduate,not legal
+506,graduate,legal
+507,high school,not legal
+508,high school,legal
+509,Lt high school,not legal
+510,Lt high school,legal
+511,bachelor,not legal
+512,bachelor,legal
+513,graduate,not legal
+514,graduate,legal
+515,high school,not legal
+516,high school,legal
+517,Lt high school,not legal
+518,Lt high school,legal
+519,bachelor,not legal
+520,bachelor,legal
+521,graduate,not legal
+522,graduate,legal
+523,high school,not legal
+524,high school,legal
+525,Lt high school,not legal
+526,Lt high school,legal
+527,bachelor,not legal
+528,bachelor,legal
+529,graduate,not legal
+530,graduate,legal
+531,high school,not legal
+532,high school,legal
+533,Lt high school,not legal
+534,Lt high school,legal
+535,bachelor,not legal
+536,bachelor,legal
+537,graduate,not legal
+538,graduate,legal
+539,high school,not legal
+540,high school,legal
+541,Lt high school,not legal
+542,Lt high school,legal
+543,bachelor,not legal
+544,bachelor,legal
+545,graduate,not legal
+546,graduate,legal
+547,high school,not legal
+548,high school,legal
+549,Lt high school,not legal
+550,Lt high school,legal
+551,bachelor,not legal
+552,bachelor,legal
+553,graduate,not legal
+554,graduate,legal
+555,high school,not legal
+556,high school,legal
+557,Lt high school,not legal
+558,Lt high school,legal
+559,bachelor,not legal
+560,bachelor,legal
+561,graduate,not legal
+562,graduate,legal
+563,high school,not legal
+564,high school,legal
+565,Lt high school,not legal
+566,Lt high school,legal
+567,bachelor,not legal
+568,bachelor,legal
+569,graduate,not legal
+570,graduate,legal
+571,high school,not legal
+572,high school,legal
+573,Lt high school,not legal
+574,Lt high school,legal
+575,bachelor,not legal
+576,bachelor,legal
+577,graduate,not legal
+578,graduate,legal
+579,high school,not legal
+580,high school,legal
+581,Lt high school,not legal
+582,Lt high school,legal
+583,bachelor,not legal
+584,bachelor,legal
+585,graduate,not legal
+586,graduate,legal
+587,high school,not legal
+588,high school,legal
+589,Lt high school,not legal
+590,Lt high school,legal
+591,bachelor,not legal
+592,bachelor,legal
+593,graduate,legal
+594,high school,not legal
+595,high school,legal
+596,Lt high school,not legal
+597,Lt high school,legal
+598,bachelor,not legal
+599,bachelor,legal
+600,graduate,legal
+601,high school,not legal
+602,high school,legal
+603,Lt high school,not legal
+604,Lt high school,legal
+605,bachelor,not legal
+606,bachelor,legal
+607,graduate,legal
+608,high school,not legal
+609,high school,legal
+610,Lt high school,not legal
+611,bachelor,not legal
+612,bachelor,legal
+613,graduate,legal
+614,high school,not legal
+615,high school,legal
+616,Lt high school,not legal
+617,bachelor,not legal
+618,bachelor,legal
+619,graduate,legal
+620,high school,not legal
+621,high school,legal
+622,Lt high school,not legal
+623,bachelor,not legal
+624,bachelor,legal
+625,graduate,legal
+626,high school,not legal
+627,high school,legal
+628,Lt high school,not legal
+629,bachelor,not legal
+630,bachelor,legal
+631,graduate,legal
+632,high school,not legal
+633,high school,legal
+634,Lt high school,not legal
+635,bachelor,not legal
+636,bachelor,legal
+637,graduate,legal
+638,high school,not legal
+639,high school,legal
+640,Lt high school,not legal
+641,bachelor,not legal
+642,bachelor,legal
+643,graduate,legal
+644,high school,not legal
+645,high school,legal
+646,Lt high school,not legal
+647,bachelor,not legal
+648,bachelor,legal
+649,graduate,legal
+650,high school,not legal
+651,high school,legal
+652,Lt high school,not legal
+653,bachelor,not legal
+654,bachelor,legal
+655,high school,not legal
+656,high school,legal
+657,Lt high school,not legal
+658,bachelor,not legal
+659,bachelor,legal
+660,high school,not legal
+661,high school,legal
+662,Lt high school,not legal
+663,bachelor,not legal
+664,bachelor,legal
+665,high school,not legal
+666,high school,legal
+667,Lt high school,not legal
+668,bachelor,not legal
+669,bachelor,legal
+670,high school,not legal
+671,high school,legal
+672,Lt high school,not legal
+673,bachelor,not legal
+674,bachelor,legal
+675,high school,not legal
+676,high school,legal
+677,Lt high school,not legal
+678,bachelor,not legal
+679,bachelor,legal
+680,high school,not legal
+681,high school,legal
+682,Lt high school,not legal
+683,bachelor,not legal
+684,bachelor,legal
+685,high school,not legal
+686,high school,legal
+687,Lt high school,not legal
+688,bachelor,not legal
+689,bachelor,legal
+690,high school,not legal
+691,high school,legal
+692,Lt high school,not legal
+693,bachelor,not legal
+694,bachelor,legal
+695,high school,not legal
+696,high school,legal
+697,Lt high school,not legal
+698,bachelor,not legal
+699,bachelor,legal
+700,high school,not legal
+701,high school,legal
+702,Lt high school,not legal
+703,bachelor,not legal
+704,bachelor,legal
+705,high school,not legal
+706,high school,legal
+707,Lt high school,not legal
+708,bachelor,not legal
+709,bachelor,legal
+710,high school,not legal
+711,high school,legal
+712,Lt high school,not legal
+713,bachelor,not legal
+714,bachelor,legal
+715,high school,not legal
+716,high school,legal
+717,Lt high school,not legal
+718,bachelor,not legal
+719,bachelor,legal
+720,high school,not legal
+721,high school,legal
+722,Lt high school,not legal
+723,bachelor,not legal
+724,bachelor,legal
+725,high school,not legal
+726,high school,legal
+727,Lt high school,not legal
+728,bachelor,not legal
+729,bachelor,legal
+730,high school,not legal
+731,high school,legal
+732,Lt high school,not legal
+733,bachelor,not legal
+734,bachelor,legal
+735,high school,not legal
+736,high school,legal
+737,Lt high school,not legal
+738,bachelor,not legal
+739,bachelor,legal
+740,high school,not legal
+741,high school,legal
+742,Lt high school,not legal
+743,bachelor,not legal
+744,bachelor,legal
+745,high school,not legal
+746,high school,legal
+747,Lt high school,not legal
+748,bachelor,not legal
+749,bachelor,legal
+750,high school,not legal
+751,high school,legal
+752,Lt high school,not legal
+753,bachelor,not legal
+754,bachelor,legal
+755,high school,not legal
+756,high school,legal
+757,Lt high school,not legal
+758,bachelor,not legal
+759,bachelor,legal
+760,high school,not legal
+761,high school,legal
+762,Lt high school,not legal
+763,bachelor,not legal
+764,bachelor,legal
+765,high school,not legal
+766,high school,legal
+767,Lt high school,not legal
+768,bachelor,not legal
+769,bachelor,legal
+770,high school,not legal
+771,high school,legal
+772,Lt high school,not legal
+773,bachelor,not legal
+774,bachelor,legal
+775,high school,not legal
+776,high school,legal
+777,Lt high school,not legal
+778,bachelor,not legal
+779,bachelor,legal
+780,high school,not legal
+781,high school,legal
+782,Lt high school,not legal
+783,bachelor,not legal
+784,bachelor,legal
+785,high school,not legal
+786,high school,legal
+787,Lt high school,not legal
+788,bachelor,not legal
+789,bachelor,legal
+790,high school,not legal
+791,high school,legal
+792,Lt high school,not legal
+793,bachelor,not legal
+794,bachelor,legal
+795,high school,not legal
+796,high school,legal
+797,Lt high school,not legal
+798,bachelor,not legal
+799,bachelor,legal
+800,high school,not legal
+801,high school,legal
+802,Lt high school,not legal
+803,bachelor,not legal
+804,bachelor,legal
+805,high school,not legal
+806,high school,legal
+807,Lt high school,not legal
+808,bachelor,not legal
+809,bachelor,legal
+810,high school,not legal
+811,high school,legal
+812,Lt high school,not legal
+813,bachelor,not legal
+814,bachelor,legal
+815,high school,not legal
+816,high school,legal
+817,Lt high school,not legal
+818,bachelor,not legal
+819,bachelor,legal
+820,high school,not legal
+821,high school,legal
+822,Lt high school,not legal
+823,bachelor,not legal
+824,bachelor,legal
+825,high school,not legal
+826,high school,legal
+827,Lt high school,not legal
+828,bachelor,not legal
+829,bachelor,legal
+830,high school,not legal
+831,high school,legal
+832,Lt high school,not legal
+833,bachelor,not legal
+834,bachelor,legal
+835,high school,not legal
+836,high school,legal
+837,Lt high school,not legal
+838,bachelor,not legal
+839,bachelor,legal
+840,high school,not legal
+841,high school,legal
+842,Lt high school,not legal
+843,bachelor,not legal
+844,bachelor,legal
+845,high school,not legal
+846,high school,legal
+847,Lt high school,not legal
+848,bachelor,legal
+849,high school,not legal
+850,high school,legal
+851,Lt high school,not legal
+852,bachelor,legal
+853,high school,not legal
+854,high school,legal
+855,Lt high school,not legal
+856,bachelor,legal
+857,high school,not legal
+858,high school,legal
+859,Lt high school,not legal
+860,bachelor,legal
+861,high school,not legal
+862,high school,legal
+863,Lt high school,not legal
+864,bachelor,legal
+865,high school,not legal
+866,high school,legal
+867,Lt high school,not legal
+868,bachelor,legal
+869,high school,not legal
+870,high school,legal
+871,Lt high school,not legal
+872,bachelor,legal
+873,high school,not legal
+874,high school,legal
+875,Lt high school,not legal
+876,high school,not legal
+877,high school,legal
+878,Lt high school,not legal
+879,high school,not legal
+880,high school,legal
+881,Lt high school,not legal
+882,high school,not legal
+883,high school,legal
+884,Lt high school,not legal
+885,high school,not legal
+886,high school,legal
+887,Lt high school,not legal
+888,high school,not legal
+889,high school,legal
+890,Lt high school,not legal
+891,high school,not legal
+892,high school,legal
+893,Lt high school,not legal
+894,high school,not legal
+895,high school,legal
+896,Lt high school,not legal
+897,high school,not legal
+898,high school,legal
+899,Lt high school,not legal
+900,high school,not legal
+901,high school,legal
+902,Lt high school,not legal
+903,high school,not legal
+904,high school,legal
+905,Lt high school,not legal
+906,high school,not legal
+907,high school,legal
+908,Lt high school,not legal
+909,high school,not legal
+910,high school,legal
+911,high school,not legal
+912,high school,legal
+913,high school,not legal
+914,high school,legal
+915,high school,not legal
+916,high school,legal
+917,high school,not legal
+918,high school,legal
+919,high school,not legal
+920,high school,legal
+921,high school,not legal
+922,high school,legal
+923,high school,not legal
+924,high school,legal
+925,high school,not legal
+926,high school,legal
+927,high school,not legal
+928,high school,legal
+929,high school,not legal
+930,high school,legal
+931,high school,not legal
+932,high school,legal
+933,high school,not legal
+934,high school,legal
+935,high school,not legal
+936,high school,legal
+937,high school,not legal
+938,high school,legal
+939,high school,not legal
+940,high school,legal
+941,high school,not legal
+942,high school,legal
+943,high school,not legal
+944,high school,legal
+945,high school,not legal
+946,high school,legal
+947,high school,not legal
+948,high school,legal
+949,high school,not legal
+950,high school,legal
+951,high school,not legal
+952,high school,legal
+953,high school,not legal
+954,high school,legal
+955,high school,not legal
+956,high school,legal
+957,high school,not legal
+958,high school,legal
+959,high school,not legal
+960,high school,legal
+961,high school,not legal
+962,high school,legal
+963,high school,not legal
+964,high school,legal
+965,high school,not legal
+966,high school,legal
+967,high school,not legal
+968,high school,legal
+969,high school,not legal
+970,high school,legal
+971,high school,not legal
+972,high school,legal
+973,high school,not legal
+974,high school,legal
+975,high school,not legal
+976,high school,legal
+977,high school,not legal
+978,high school,legal
+979,high school,not legal
+980,high school,legal
+981,high school,not legal
+982,high school,legal
+983,high school,not legal
+984,high school,legal
+985,high school,not legal
+986,high school,legal
+987,high school,not legal
+988,high school,legal
+989,high school,not legal
+990,high school,legal
+991,high school,not legal
+992,high school,legal
+993,high school,not legal
+994,high school,legal
+995,high school,not legal
+996,high school,legal
+997,high school,not legal
+998,high school,legal
+999,high school,not legal
+1000,high school,legal
+1001,high school,not legal
+1002,high school,legal
+1003,high school,not legal
+1004,high school,legal
+1005,high school,not legal
+1006,high school,legal
+1007,high school,not legal
+1008,high school,legal
+1009,high school,not legal
+1010,high school,legal
+1011,high school,not legal
+1012,high school,legal
+1013,high school,not legal
+1014,high school,legal
+1015,high school,not legal
+1016,high school,legal
+1017,high school,not legal
+1018,high school,legal
+1019,high school,not legal
+1020,high school,legal
+1021,high school,not legal
+1022,high school,legal
+1023,high school,not legal
+1024,high school,legal
+1025,high school,not legal
+1026,high school,legal
+1027,high school,not legal
+1028,high school,legal
+1029,high school,not legal
+1030,high school,legal
+1031,high school,not legal
+1032,high school,legal
+1033,high school,not legal
+1034,high school,legal
+1035,high school,not legal
+1036,high school,legal
+1037,high school,not legal
+1038,high school,legal
+1039,high school,not legal
+1040,high school,legal
+1041,high school,not legal
+1042,high school,legal
+1043,high school,not legal
+1044,high school,legal
+1045,high school,not legal
+1046,high school,legal
+1047,high school,not legal
+1048,high school,legal
+1049,high school,not legal
+1050,high school,legal
+1051,high school,not legal
+1052,high school,legal
+1053,high school,not legal
+1054,high school,legal
+1055,high school,not legal
+1056,high school,legal
+1057,high school,not legal
+1058,high school,legal
+1059,high school,not legal
+1060,high school,legal
+1061,high school,not legal
+1062,high school,legal
+1063,high school,not legal
+1064,high school,legal
+1065,high school,not legal
+1066,high school,legal
+1067,high school,not legal
+1068,high school,legal
+1069,high school,not legal
+1070,high school,legal
+1071,high school,not legal
+1072,high school,legal
+1073,high school,not legal
+1074,high school,legal
+1075,high school,not legal
+1076,high school,legal
+1077,high school,not legal
+1078,high school,legal
+1079,high school,not legal
+1080,high school,legal
+1081,high school,not legal
+1082,high school,legal
+1083,high school,not legal
+1084,high school,legal
+1085,high school,not legal
+1086,high school,legal
+1087,high school,not legal
+1088,high school,legal
+1089,high school,not legal
+1090,high school,legal
+1091,high school,not legal
+1092,high school,legal
+1093,high school,not legal
+1094,high school,legal
+1095,high school,not legal
+1096,high school,legal
+1097,high school,not legal
+1098,high school,legal
+1099,high school,not legal
+1100,high school,legal
+1101,high school,not legal
+1102,high school,legal
+1103,high school,not legal
+1104,high school,legal
+1105,high school,not legal
+1106,high school,legal
+1107,high school,not legal
+1108,high school,legal
+1109,high school,not legal
+1110,high school,legal
+1111,high school,not legal
+1112,high school,legal
+1113,high school,not legal
+1114,high school,legal
+1115,high school,not legal
+1116,high school,legal
+1117,high school,not legal
+1118,high school,legal
+1119,high school,not legal
+1120,high school,legal
+1121,high school,not legal
+1122,high school,legal
+1123,high school,not legal
+1124,high school,legal
+1125,high school,not legal
+1126,high school,legal
+1127,high school,not legal
+1128,high school,legal
+1129,high school,not legal
+1130,high school,legal
+1131,high school,not legal
+1132,high school,legal
+1133,high school,not legal
+1134,high school,legal
+1135,high school,not legal
+1136,high school,legal
+1137,high school,not legal
+1138,high school,legal
+1139,high school,not legal
+1140,high school,legal
+1141,high school,not legal
+1142,high school,legal
+1143,high school,not legal
+1144,high school,legal
+1145,high school,not legal
+1146,high school,legal
+1147,high school,not legal
+1148,high school,legal
+1149,high school,not legal
+1150,high school,legal
+1151,high school,not legal
+1152,high school,legal
+1153,high school,not legal
+1154,high school,legal
+1155,high school,not legal
+1156,high school,legal
+1157,high school,not legal
+1158,high school,legal
+1159,high school,not legal
+1160,high school,legal
+1161,high school,not legal
+1162,high school,legal
+1163,high school,not legal
+1164,high school,legal
+1165,high school,not legal
+1166,high school,legal
+1167,high school,not legal
+1168,high school,legal
+1169,high school,not legal
+1170,high school,legal
+1171,high school,not legal
+1172,high school,legal
+1173,high school,not legal
+1174,high school,legal
+1175,high school,not legal
+1176,high school,legal
+1177,high school,not legal
+1178,high school,legal
+1179,high school,not legal
+1180,high school,legal
+1181,high school,not legal
+1182,high school,legal
+1183,high school,not legal
+1184,high school,legal
+1185,high school,not legal
+1186,high school,legal
+1187,high school,not legal
+1188,high school,legal
+1189,high school,not legal
+1190,high school,legal
+1191,high school,not legal
+1192,high school,legal
+1193,high school,not legal
+1194,high school,legal
+1195,high school,not legal
+1196,high school,legal
+1197,high school,not legal
+1198,high school,legal
+1199,high school,not legal
+1200,high school,legal
+1201,high school,not legal
+1202,high school,legal
+1203,high school,not legal
+1204,high school,legal
+1205,high school,not legal
+1206,high school,legal
+1207,high school,not legal
+1208,high school,legal
+1209,high school,not legal
+1210,high school,legal
+1211,high school,not legal
+1212,high school,legal
+1213,high school,not legal
+1214,high school,legal
+1215,high school,not legal
+1216,high school,legal
+1217,high school,not legal
+1218,high school,legal
+1219,high school,not legal
+1220,high school,legal
+1221,high school,not legal
+1222,high school,legal
+1223,high school,not legal
+1224,high school,legal
+1225,high school,not legal
+1226,high school,legal
+1227,high school,not legal
+1228,high school,legal
+1229,high school,not legal
+1230,high school,legal
+1231,high school,not legal
+1232,high school,legal
+1233,high school,not legal
+1234,high school,legal
+1235,high school,not legal
+1236,high school,legal
+1237,high school,not legal
+1238,high school,legal
+1239,high school,not legal
+1240,high school,legal
+1241,high school,not legal
+1242,high school,legal
+1243,high school,not legal
+1244,high school,legal
+1245,high school,not legal
+1246,high school,legal
+1247,high school,not legal
+1248,high school,legal
+1249,high school,not legal
+1250,high school,legal
+1251,high school,not legal
+1252,high school,legal
+1253,high school,not legal
+1254,high school,legal
+1255,high school,not legal
+1256,high school,legal
+1257,high school,not legal
+1258,high school,not legal
+1259,high school,not legal
